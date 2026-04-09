@@ -1,31 +1,25 @@
 {
-  "tweet_id": "2041907164504068484",
-  "tweet_url": "https://twitter.com/HackingDave/status/2041907164504068484",
+  "tweet_id": "2042281535508713816",
+  "tweet_url": "https://twitter.com/hackingdave             # Twitter handle WITHOUT @/status/2042281535508713816",
   "author_name": "Dave Kennedy",
-  "author_username": "HackingDave",
+  "author_username": "hackingdave             # Twitter handle WITHOUT @",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "I have a whole home generator that has failed about 50% of the time. Where I live there's no good breakage of wind and wide open country area so we lose power several times a year.\n\nInstalled a gateway that uses my car to power my house. Just tested and works flawlessly! Super https://x.com/HackingDave/status/2041907164504068484/photo/1",
-  "raw_text": "I have a whole home generator that has failed about 50% of the time. Where I live there's no good breakage of wind and wide open country area so we lose power several times a year.\n\nInstalled a gateway that uses my car to power my house. Just tested and works flawlessly! Super https://t.co/INeYOrbDsj",
-  "created_at": "2026-04-08T15:52:59+00:00",
-  "media": [
-    {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HFZPcA_a8AMbw3Y.jpg",
-      "alt_text": null
-    }
-  ],
+  "text": "I’m extremely obsessive with code quality on these things. Knew something was off 4 weeks ago and it progressively got worse. \n\nCancelled my Claude substitution a few days ago - opus 4.6 when released was absolutely magic. I’m sure they will fix it but it is unusable right now. https://twitter.com/roundtablespace/status/2041897604708233650",
+  "raw_text": "I’m extremely obsessive with code quality on these things. Knew something was off 4 weeks ago and it progressively got worse. \n\nCancelled my Claude substitution a few days ago - opus 4.6 when released was absolutely magic. I’m sure they will fix it but it is unusable right now. https://t.co/JK4phG271B",
+  "created_at": "2026-04-09T16:40:36+00:00",
+  "media": [],
   "urls": [
     {
-      "short": "https://t.co/INeYOrbDsj",
-      "expanded": "https://x.com/HackingDave/status/2041907164504068484/photo/1",
-      "display": "pic.x.com/INeYOrbDsj",
+      "short": "https://t.co/JK4phG271B",
+      "expanded": "https://twitter.com/roundtablespace/status/2041897604708233650",
+      "display": "x.com/roundtablespac…",
       "title": ""
     }
   ],
-  "updated_at": "2026-04-09T04:10:30.215137+00:00",
+  "updated_at": "2026-04-09T16:59:15.062966+00:00",
   "classification": {
-    "relevant": false,
-    "reason": "Tweet discusses home power generation and car-to-house power gateway, which is hardware/electrical infrastructure rather than software tools",
-    "tool_mentioned": null
+    "relevant": true,
+    "reason": "User discusses cancelling Claude subscription due to degraded code quality, expressing frustration with the AI coding assistant.",
+    "tool_mentioned": "Claude"
   }
 }
