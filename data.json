@@ -1,18 +1,31 @@
 {
-  "tweet_id": "1800000000000000001",
-  "tweet_url": "https://twitter.com/someuser/status/1800000000000000001",
-  "author_name": "Some User",
-  "author_username": "someuser",
-  "author_avatar": "https://pbs.twimg.com/profile_images/example/photo.jpg",
-  "text": "Hey lately I've switched from Codex to Claude Code. The context window handling is so much better and it actually understands my codebase structure. No going back.",
-  "raw_text": "Hey lately I've switched from Codex to Claude Code...",
-  "created_at": "2025-06-15T09:23:00+00:00",
-  "media": [],
-  "urls": [],
-  "updated_at": "2025-06-15T09:30:00+00:00",
+  "tweet_id": "2041907164504068484",
+  "tweet_url": "https://twitter.com/HackingDave/status/2041907164504068484",
+  "author_name": "Dave Kennedy",
+  "author_username": "HackingDave",
+  "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
+  "text": "I have a whole home generator that has failed about 50% of the time. Where I live there's no good breakage of wind and wide open country area so we lose power several times a year.\n\nInstalled a gateway that uses my car to power my house. Just tested and works flawlessly! Super https://x.com/HackingDave/status/2041907164504068484/photo/1",
+  "raw_text": "I have a whole home generator that has failed about 50% of the time. Where I live there's no good breakage of wind and wide open country area so we lose power several times a year.\n\nInstalled a gateway that uses my car to power my house. Just tested and works flawlessly! Super https://t.co/INeYOrbDsj",
+  "created_at": "2026-04-08T15:52:59+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HFZPcA_a8AMbw3Y.jpg",
+      "alt_text": null
+    }
+  ],
+  "urls": [
+    {
+      "short": "https://t.co/INeYOrbDsj",
+      "expanded": "https://x.com/HackingDave/status/2041907164504068484/photo/1",
+      "display": "pic.x.com/INeYOrbDsj",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-04-09T04:10:30.215137+00:00",
   "classification": {
-    "relevant": true,
-    "reason": "User explicitly mentions switching from Codex to Claude Code, a developer AI coding assistant",
-    "tool_mentioned": "Claude Code"
+    "relevant": false,
+    "reason": "Tweet discusses home power generation and car-to-house power gateway, which is hardware/electrical infrastructure rather than software tools",
+    "tool_mentioned": null
   }
 }
