@@ -480,11 +480,10 @@ function render(d) {
     ? `<div class="tool-badge">◆ Currently Using: ${tool}</div>`
     : '';
 
-  // Capitalise first letter of username for the title
+  // Use the username exactly as returned by Twitter (preserves CamelCase like HackingDave)
   const uname = d.author_username || 'X';
-  const displayName = uname.charAt(0).toUpperCase() + uname.slice(1);
-  document.getElementById('title-name').textContent = displayName;
-  document.title = `whatIs${displayName}using`;
+  document.getElementById('title-name').textContent = uname;
+  document.title = `whatIs${uname}using`;
 
   // Avatar watermark
   const avatarBg = d.author_avatar
