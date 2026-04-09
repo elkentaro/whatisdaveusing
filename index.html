@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>whatisXusing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Playfair+Display:wght@400;700;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:        #0a0a0a;
+    --surface:   #111111;
+    --border:    #222222;
+    --accent:    #e8ff00;
+    --muted:     #444444;
+    --text:      #e8e8e8;
+    --text-dim:  #666666;
+    --red:       #ff3b3b;
+    --mono:      'Space Mono', monospace;
+    --serif:     'Playfair Display', Georgia, serif;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { background: var(--bg); color: var(--text); font-family: var(--mono); }
+
+  body {
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    overflow-x: hidden;
+  }
+
+  /* ── Scanline overlay ── */
+  body::before {
+    content: '';
+    position: fixed; inset: 0; z-index: 999; pointer-events: none;
+    background: repeating-linear-gradient(
+      to bottom,
+      transparent 0px,
+      transparent 2px,
+      rgba(0,0,0,0.08) 2px,
+      rgba(0,0,0,0.08) 4px
+    );
+  }
+
+  /* ── Header ── */
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 24px 40px;
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .header-left {
+    display: flex; align-items: center; gap: 10px;
+    font-size: 10px; letter-spacing: 0.2em; color: var(--text-dim);
+    text-transform: uppercase;
+  }
+
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--red);
+    animation: pulse 1.5s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50%       { opacity: 0.4; transform: scale(0.7); }
+  }
+
+  .header-center {
+    text-align: center;
+  }
+
+  .site-title {
+    font-family: var(--serif);
+    font-size: clamp(22px, 4vw, 38px);
+    font-weight: 900;
+    letter-spacing: -0.02em;
+    line-height: 1;
+  }
+
+  .site-title span { color: var(--accent); }
+
+  .site-sub {
+    font-size: 9px; letter-spacing: 0.3em;
+    color: var(--text-dim); text-transform: uppercase;
+    margin-top: 4px;
+  }
+
+  .header-right {
+    text-align: right;
+    font-size: 10px; letter-spacing: 0.1em; color: var(--text-dim);
+  }
+
+  /* ── Ticker strip ── */
+  .ticker {
+    border-bottom: 1px solid var(--border);
+    background: var(--accent);
+    color: var(--bg);
+    font-size: 10px; font-weight: 700;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    overflow: hidden; white-space: nowrap;
+    padding: 5px 0;
+  }
+
+  .ticker-inner {
+    display: inline-block;
+    animation: ticker 22s linear infinite;
+  }
+
+  @keyframes ticker {
+    0%   { transform: translateX(100vw); }
+    100% { transform: translateX(-100%); }
+  }
+
+  /* ── Main ── */
+  main {
+    max-width: 820px; margin: 0 auto;
+    padding: 60px 40px;
+    width: 100%;
+  }
+
+  /* ── Masthead label ── */
+  .section-label {
+    font-size: 9px; letter-spacing: 0.3em; text-transform: uppercase;
+    color: var(--muted); margin-bottom: 32px;
+    display: flex; align-items: center; gap: 12px;
+  }
+
+  .section-label::after {
+    content: ''; flex: 1; height: 1px; background: var(--border);
+  }
+
+  /* ── Tweet card ── */
+  .card {
+    border: 1px solid var(--border);
+    background: var(--surface);
+    position: relative;
+    opacity: 0;
+    transform: translateY(16px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+  }
+
+  .card.visible { opacity: 1; transform: none; }
+
+  /* Corner accent */
+  .card::before {
+    content: '';
+    position: absolute; top: -1px; left: -1px;
+    width: 32px; height: 32px;
+    border-top: 2px solid var(--accent);
+    border-left: 2px solid var(--accent);
+  }
+
+  .card-header {
+    padding: 24px 28px 16px;
+    display: flex; align-items: center; gap: 14px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .avatar {
+    width: 44px; height: 44px;
+    border-radius: 50%; border: 2px solid var(--border);
+    object-fit: cover;
+    background: var(--border);
+  }
+
+  .author-name {
+    font-family: var(--serif);
+    font-size: 18px; font-weight: 700;
+    line-height: 1.2;
+  }
+
+  .author-handle {
+    font-size: 11px; color: var(--text-dim);
+    margin-top: 2px;
+  }
+
+  .card-body { padding: 24px 28px; }
+
+  .tweet-text {
+    font-family: var(--serif);
+    font-size: clamp(16px, 2.5vw, 22px);
+    line-height: 1.65;
+    letter-spacing: -0.01em;
+  }
+
+  .tweet-text a {
+    color: var(--accent); text-decoration: none; border-bottom: 1px solid currentColor;
+  }
+
+  /* ── Media grid ── */
+  .media-grid {
+    display: grid;
+    gap: 4px;
+    margin-top: 20px;
+  }
+
+  .media-grid.count-1 { grid-template-columns: 1fr; }
+  .media-grid.count-2 { grid-template-columns: 1fr 1fr; }
+  .media-grid.count-3 { grid-template-columns: 1fr 1fr; }
+  .media-grid.count-3 .media-item:first-child { grid-column: 1 / -1; }
+  .media-grid.count-4 { grid-template-columns: 1fr 1fr; }
+
+  .media-item {
+    overflow: hidden;
+    border: 1px solid var(--border);
+    aspect-ratio: 16/9;
+    background: var(--border);
+    position: relative;
+  }
+
+  .media-item img {
+    width: 100%; height: 100%;
+    object-fit: cover;
+    display: block;
+    filter: grayscale(20%);
+    transition: filter 0.3s;
+  }
+
+  .media-item:hover img { filter: none; }
+
+  .video-badge {
+    position: absolute; bottom: 8px; right: 8px;
+    background: rgba(0,0,0,0.8); color: var(--accent);
+    font-size: 9px; letter-spacing: 0.2em; text-transform: uppercase;
+    padding: 3px 8px;
+  }
+
+  /* ── URL cards ── */
+  .url-cards { margin-top: 20px; display: flex; flex-direction: column; gap: 8px; }
+
+  .url-card {
+    border: 1px solid var(--border);
+    padding: 12px 16px;
+    display: flex; align-items: flex-start; gap: 12px;
+    text-decoration: none; color: inherit;
+    transition: border-color 0.2s, background 0.2s;
+  }
+
+  .url-card:hover { border-color: var(--accent); background: rgba(232,255,0,0.03); }
+
+  .url-card-arrow {
+    color: var(--accent); font-size: 14px; margin-top: 1px; flex-shrink: 0;
+  }
+
+  .url-card-content {}
+
+  .url-card-title {
+    font-size: 12px; font-weight: 700;
+    letter-spacing: 0.02em;
+    margin-bottom: 3px;
+  }
+
+  .url-card-host {
+    font-size: 10px; color: var(--text-dim); letter-spacing: 0.1em;
+  }
+
+  /* ── Card footer ── */
+  .card-footer {
+    padding: 14px 28px;
+    border-top: 1px solid var(--border);
+    display: flex; align-items: center; justify-content: space-between;
+    flex-wrap: wrap; gap: 8px;
+  }
+
+  .timestamp {
+    font-size: 10px; color: var(--text-dim); letter-spacing: 0.1em;
+  }
+
+  .view-original {
+    font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase;
+    color: var(--accent); text-decoration: none;
+    border: 1px solid var(--accent);
+    padding: 5px 12px;
+    transition: background 0.2s, color 0.2s;
+  }
+
+  .view-original:hover { background: var(--accent); color: var(--bg); }
+
+  /* ── Tool badge ── */
+  .tool-badge {
+    display: inline-flex; align-items: center; gap: 6px;
+    background: rgba(232,255,0,0.08);
+    border: 1px solid rgba(232,255,0,0.3);
+    color: var(--accent);
+    font-size: 10px; font-weight: 700;
+    letter-spacing: 0.2em; text-transform: uppercase;
+    padding: 4px 10px;
+    margin-top: 16px;
+  }
+
+  /* ── Empty / error state ── */
+  .state-box {
+    border: 1px dashed var(--border);
+    padding: 60px 40px;
+    text-align: center;
+    color: var(--text-dim);
+  }
+
+  .state-box .state-icon { font-size: 32px; margin-bottom: 16px; }
+  .state-box p { font-size: 12px; letter-spacing: 0.1em; line-height: 1.8; }
+
+  /* ── Footer ── */
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 20px 40px;
+    display: flex; justify-content: space-between; align-items: center;
+    font-size: 10px; letter-spacing: 0.1em; color: var(--text-dim);
+    flex-wrap: wrap; gap: 8px;
+  }
+
+  /* ── Loading skeleton ── */
+  .skeleton {
+    background: linear-gradient(90deg, var(--surface) 25%, var(--border) 50%, var(--surface) 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+    border-radius: 2px;
+  }
+
+  @keyframes shimmer {
+    0%   { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+  }
+
+  .skeleton-line { height: 14px; margin-bottom: 10px; }
+  .skeleton-line.w60 { width: 60%; }
+  .skeleton-line.w80 { width: 80%; }
+  .skeleton-line.w40 { width: 40%; }
+
+  @media (max-width: 600px) {
+    header { grid-template-columns: 1fr; text-align: center; }
+    .header-left, .header-right { justify-content: center; text-align: center; }
+    main { padding: 32px 20px; }
+    .card-header, .card-body, .card-footer { padding-left: 20px; padding-right: 20px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-left">
+    <div class="live-dot"></div>
+    <span>Live Intelligence</span>
+  </div>
+  <div class="header-center">
+    <div class="site-title">whatIs<span>X</span>using</div>
+    <div class="site-sub">Automated AI &amp; Tool Signal Monitor</div>
+  </div>
+  <div class="header-right" id="updated-at">—</div>
+</header>
+
+<div class="ticker">
+  <span class="ticker-inner">
+    ◆ MONITORING ACTIVE &nbsp;&nbsp;&nbsp; // &nbsp;&nbsp;&nbsp; AI TOOL SIGNAL DETECTION &nbsp;&nbsp;&nbsp; // &nbsp;&nbsp;&nbsp;
+    LATEST TWEET AUTO-UPDATED &nbsp;&nbsp;&nbsp; // &nbsp;&nbsp;&nbsp; POWERED BY CLAUDE + TWEEPY &nbsp;&nbsp;&nbsp; //
+    &nbsp;&nbsp;&nbsp; WHAT ARE THEY BUILDING WITH? &nbsp;&nbsp;&nbsp; // &nbsp;&nbsp;&nbsp; MONITORING ACTIVE ◆
+  </span>
+</div>
+
+<main>
+  <div class="section-label">Latest Signal</div>
+  <div id="content">
+    <!-- Loading skeleton -->
+    <div class="card visible" style="padding:28px">
+      <div class="skeleton skeleton-line w40" style="height:20px;margin-bottom:20px"></div>
+      <div class="skeleton skeleton-line w80"></div>
+      <div class="skeleton skeleton-line w60"></div>
+      <div class="skeleton skeleton-line w80"></div>
+      <div class="skeleton skeleton-line w40"></div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <span>whatisXusing // Automated Signal Intelligence</span>
+  <span id="footer-ts">—</span>
+</footer>
+
+<script>
+const DATA_URL = './data.json';
+
+function timeAgo(iso) {
+  if (!iso) return '—';
+  const diff = Date.now() - new Date(iso).getTime();
+  const s = Math.floor(diff / 1000);
+  if (s < 60)    return `${s}s ago`;
+  if (s < 3600)  return `${Math.floor(s/60)}m ago`;
+  if (s < 86400) return `${Math.floor(s/3600)}h ago`;
+  return `${Math.floor(s/86400)}d ago`;
+}
+
+function formatDate(iso) {
+  if (!iso) return '';
+  return new Date(iso).toLocaleString('en-US', {
+    year:'numeric', month:'short', day:'numeric',
+    hour:'2-digit', minute:'2-digit', timeZoneName:'short'
+  });
+}
+
+function hostOf(url) {
+  try { return new URL(url).hostname.replace(/^www\./, ''); }
+  catch { return url; }
+}
+
+function buildMediaGrid(mediaItems) {
+  if (!mediaItems || !mediaItems.length) return '';
+  const count = Math.min(mediaItems.length, 4);
+  const shown = mediaItems.slice(0, 4);
+  const items = shown.map((m, i) => {
+    const isVideo = m.type === 'video' || m.type === 'animated_gif';
+    const badge = isVideo ? `<div class="video-badge">▶ ${m.type === 'animated_gif' ? 'GIF' : 'VIDEO'}</div>` : '';
+    const alt = m.alt_text || m.type || 'media';
+    return `<div class="media-item">
+      <img src="${m.url || ''}" alt="${alt}" loading="lazy" onerror="this.closest('.media-item').remove()">
+      ${badge}
+    </div>`;
+  }).join('');
+  return `<div class="media-grid count-${count}">${items}</div>`;
+}
+
+function buildUrlCards(urls) {
+  if (!urls || !urls.length) return '';
+  // Filter out Twitter's own t.co noise for media
+  const filtered = urls.filter(u => {
+    const exp = u.expanded || '';
+    return !exp.includes('twitter.com') && !exp.includes('t.co/') && exp.startsWith('http');
+  });
+  if (!filtered.length) return '';
+  const cards = filtered.slice(0, 3).map(u => {
+    const title = u.title || u.display || hostOf(u.expanded);
+    const host  = hostOf(u.expanded);
+    return `<a class="url-card" href="${u.expanded}" target="_blank" rel="noopener">
+      <div class="url-card-arrow">↗</div>
+      <div class="url-card-content">
+        <div class="url-card-title">${title}</div>
+        <div class="url-card-host">${host}</div>
+      </div>
+    </a>`;
+  }).join('');
+  return `<div class="url-cards">${cards}</div>`;
+}
+
+function linkifyText(text) {
+  // Highlight @mentions
+  text = text.replace(/@(\w+)/g, '<a href="https://twitter.com/$1" target="_blank" rel="noopener">@$1</a>');
+  // Highlight #hashtags
+  text = text.replace(/#(\w+)/g, '<a href="https://twitter.com/hashtag/$1" target="_blank" rel="noopener">#$1</a>');
+  // Linkify bare URLs not already wrapped
+  text = text.replace(/(https?:\/\/[^\s<"]+)/g, '<a href="$1" target="_blank" rel="noopener">$1</a>');
+  return text;
+}
+
+function render(d) {
+  const tool = d.classification?.tool_mentioned;
+  const toolBadge = tool
+    ? `<div class="tool-badge">◆ Currently Using: ${tool}</div>`
+    : '';
+
+  const html = `
+  <div class="card" id="main-card">
+    <div class="card-header">
+      <img class="avatar" src="${d.author_avatar || ''}"
+           alt="${d.author_name}" onerror="this.style.display='none'">
+      <div>
+        <div class="author-name">${d.author_name || d.author_username}</div>
+        <div class="author-handle">@${d.author_username}</div>
+      </div>
+    </div>
+    <div class="card-body">
+      <div class="tweet-text">${linkifyText(d.text || '')}</div>
+      ${buildMediaGrid(d.media)}
+      ${buildUrlCards(d.urls)}
+      ${toolBadge}
+    </div>
+    <div class="card-footer">
+      <div class="timestamp">${formatDate(d.created_at)}</div>
+      <a class="view-original" href="${d.tweet_url}" target="_blank" rel="noopener">
+        View on X ↗
+      </a>
+    </div>
+  </div>`;
+
+  document.getElementById('content').innerHTML = html;
+  // Trigger animation
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      document.getElementById('main-card')?.classList.add('visible');
+    });
+  });
+
+  const ua = d.updated_at ? `Updated ${timeAgo(d.updated_at)}` : '';
+  document.getElementById('updated-at').textContent = ua;
+  document.getElementById('footer-ts').textContent = `Last fetch: ${formatDate(d.updated_at)}`;
+}
+
+function renderEmpty() {
+  document.getElementById('content').innerHTML = `
+  <div class="state-box">
+    <div class="state-icon">◯</div>
+    <p>No AI / tool signals detected yet.<br>
+    The bot is watching. Check back soon.</p>
+  </div>`;
+}
+
+function renderError(msg) {
+  document.getElementById('content').innerHTML = `
+  <div class="state-box">
+    <div class="state-icon">⚠</div>
+    <p>${msg}</p>
+  </div>`;
+}
+
+async function fetchData() {
+  try {
+    const res = await fetch(`${DATA_URL}?v=${Date.now()}`);
+    if (res.status === 404) { renderEmpty(); return; }
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const d = await res.json();
+    if (!d || !d.tweet_id) { renderEmpty(); return; }
+    render(d);
+  } catch (e) {
+    console.error(e);
+    renderError(`Could not load data.json — ${e.message}`);
+  }
+}
+
+fetchData();
+// Refresh every 5 minutes
+setInterval(fetchData, 5 * 60 * 1000);
+</script>
+
+</body>
+</html>

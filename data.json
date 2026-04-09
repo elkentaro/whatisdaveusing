@@ -1,0 +1,18 @@
+{
+  "tweet_id": "1800000000000000001",
+  "tweet_url": "https://twitter.com/someuser/status/1800000000000000001",
+  "author_name": "Some User",
+  "author_username": "someuser",
+  "author_avatar": "https://pbs.twimg.com/profile_images/example/photo.jpg",
+  "text": "Hey lately I've switched from Codex to Claude Code. The context window handling is so much better and it actually understands my codebase structure. No going back.",
+  "raw_text": "Hey lately I've switched from Codex to Claude Code...",
+  "created_at": "2025-06-15T09:23:00+00:00",
+  "media": [],
+  "urls": [],
+  "updated_at": "2025-06-15T09:30:00+00:00",
+  "classification": {
+    "relevant": true,
+    "reason": "User explicitly mentions switching from Codex to Claude Code, a developer AI coding assistant",
+    "tool_mentioned": "Claude Code"
+  }
+}
