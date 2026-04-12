@@ -1,25 +1,18 @@
 {
-  "tweet_id": "2043115950728253942",
-  "tweet_url": "https://twitter.com/hackingdave/status/2043115950728253942",
+  "tweet_id": "2043195691715944674",
+  "tweet_url": "https://twitter.com/hackingdave/status/2043195691715944674",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Yeppers. It’s the worst model right now. When first released, incredible. \n\nThe fact that Claude hasn’t publicly stated this or what they are doing to fix it is not a good look. I’ve switched our dev teams away from Claude to Codex. https://twitter.com/kimmonismus/status/2043052039413100660",
-  "raw_text": "Yeppers. It’s the worst model right now. When first released, incredible. \n\nThe fact that Claude hasn’t publicly stated this or what they are doing to fix it is not a good look. I’ve switched our dev teams away from Claude to Codex. https://t.co/FzgI8llkx2",
-  "created_at": "2026-04-11T23:56:16+00:00",
+  "text": "I understand there’s a ton of Claude fans out there. I was there too 4-5 weeks ago. Then it got way way way worse and without explanation.\n\nWhat’s worse is that I would consider myself a heavy power user. What about the folks that aren’t and have no idea it was dumbed down over",
+  "raw_text": "I understand there’s a ton of Claude fans out there. I was there too 4-5 weeks ago. Then it got way way way worse and without explanation.\n\nWhat’s worse is that I would consider myself a heavy power user. What about the folks that aren’t and have no idea it was dumbed down over",
+  "created_at": "2026-04-12T05:13:08+00:00",
   "media": [],
-  "urls": [
-    {
-      "short": "https://t.co/FzgI8llkx2",
-      "expanded": "https://twitter.com/kimmonismus/status/2043052039413100660",
-      "display": "x.com/kimmonismus/st…",
-      "title": ""
-    }
-  ],
-  "updated_at": "2026-04-12T00:38:24.883421+00:00",
+  "urls": [],
+  "updated_at": "2026-04-12T05:38:28.772842+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User discusses switching development teams from Claude to Codex due to perceived model quality decline",
-    "tool_mentioned": "Codex"
+    "reason": "User discusses their experience with Claude AI assistant and perceived quality degradation",
+    "tool_mentioned": "Claude"
   }
 }
