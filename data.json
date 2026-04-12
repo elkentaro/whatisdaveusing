@@ -1,25 +1,25 @@
 {
-  "tweet_id": "2042720703040852094",
-  "tweet_url": "https://twitter.com/hackingdave/status/2042720703040852094",
+  "tweet_id": "2043115950728253942",
+  "tweet_url": "https://twitter.com/hackingdave/status/2043115950728253942",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Not sure if this will work, just throwing it out there for those experiencing bad Claude issues. https://twitter.com/PawelHuryn/status/2042701413248307494",
-  "raw_text": "Not sure if this will work, just throwing it out there for those experiencing bad Claude issues. https://t.co/6O0a9LLhor",
-  "created_at": "2026-04-10T21:45:42+00:00",
+  "text": "Yeppers. It’s the worst model right now. When first released, incredible. \n\nThe fact that Claude hasn’t publicly stated this or what they are doing to fix it is not a good look. I’ve switched our dev teams away from Claude to Codex. https://twitter.com/kimmonismus/status/2043052039413100660",
+  "raw_text": "Yeppers. It’s the worst model right now. When first released, incredible. \n\nThe fact that Claude hasn’t publicly stated this or what they are doing to fix it is not a good look. I’ve switched our dev teams away from Claude to Codex. https://t.co/FzgI8llkx2",
+  "created_at": "2026-04-11T23:56:16+00:00",
   "media": [],
   "urls": [
     {
-      "short": "https://t.co/6O0a9LLhor",
-      "expanded": "https://twitter.com/PawelHuryn/status/2042701413248307494",
-      "display": "x.com/PawelHuryn/sta…",
+      "short": "https://t.co/FzgI8llkx2",
+      "expanded": "https://twitter.com/kimmonismus/status/2043052039413100660",
+      "display": "x.com/kimmonismus/st…",
       "title": ""
     }
   ],
-  "updated_at": "2026-04-10T22:15:23.676787+00:00",
+  "updated_at": "2026-04-12T00:38:24.883421+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Tweet discusses issues with Claude AI and shares a potential solution",
-    "tool_mentioned": "Claude"
+    "reason": "User discusses switching development teams from Claude to Codex due to perceived model quality decline",
+    "tool_mentioned": "Codex"
   }
 }
