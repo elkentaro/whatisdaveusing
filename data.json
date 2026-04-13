@@ -1,18 +1,31 @@
 {
-  "tweet_id": "2043195691715944674",
-  "tweet_url": "https://twitter.com/hackingdave/status/2043195691715944674",
+  "tweet_id": "2043766891882103119",
+  "tweet_url": "https://twitter.com/hackingdave/status/2043766891882103119",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "I understand there’s a ton of Claude fans out there. I was there too 4-5 weeks ago. Then it got way way way worse and without explanation.\n\nWhat’s worse is that I would consider myself a heavy power user. What about the folks that aren’t and have no idea it was dumbed down over",
-  "raw_text": "I understand there’s a ton of Claude fans out there. I was there too 4-5 weeks ago. Then it got way way way worse and without explanation.\n\nWhat’s worse is that I would consider myself a heavy power user. What about the folks that aren’t and have no idea it was dumbed down over",
-  "created_at": "2026-04-12T05:13:08+00:00",
-  "media": [],
-  "urls": [],
-  "updated_at": "2026-04-12T05:38:28.772842+00:00",
+  "text": "\"Automatically compacting context\" https://x.com/HackingDave/status/2043766891882103119/photo/1",
+  "raw_text": "\"Automatically compacting context\" https://t.co/2gc3VfWyjG",
+  "created_at": "2026-04-13T19:02:53+00:00",
+  "media": [
+    {
+      "type": "animated_gif",
+      "url": "https://pbs.twimg.com/tweet_video_thumb/HFzrJ21XIAAKye0.jpg",
+      "alt_text": null
+    }
+  ],
+  "urls": [
+    {
+      "short": "https://t.co/2gc3VfWyjG",
+      "expanded": "https://x.com/HackingDave/status/2043766891882103119/photo/1",
+      "display": "pic.x.com/2gc3VfWyjG",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-04-13T19:39:04.776984+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User discusses their experience with Claude AI assistant and perceived quality degradation",
-    "tool_mentioned": "Claude"
+    "reason": "References automatic context compaction, likely discussing an AI coding assistant or LLM tool feature",
+    "tool_mentioned": null
   }
 }
