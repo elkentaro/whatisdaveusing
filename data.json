@@ -1,31 +1,18 @@
 {
-  "tweet_id": "2043766891882103119",
-  "tweet_url": "https://twitter.com/hackingdave/status/2043766891882103119",
+  "tweet_id": "2044277771921170566",
+  "tweet_url": "https://twitter.com/hackingdave/status/2044277771921170566",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "\"Automatically compacting context\" https://x.com/HackingDave/status/2043766891882103119/photo/1",
-  "raw_text": "\"Automatically compacting context\" https://t.co/2gc3VfWyjG",
-  "created_at": "2026-04-13T19:02:53+00:00",
-  "media": [
-    {
-      "type": "animated_gif",
-      "url": "https://pbs.twimg.com/tweet_video_thumb/HFzrJ21XIAAKye0.jpg",
-      "alt_text": null
-    }
-  ],
-  "urls": [
-    {
-      "short": "https://t.co/2gc3VfWyjG",
-      "expanded": "https://x.com/HackingDave/status/2043766891882103119/photo/1",
-      "display": "pic.x.com/2gc3VfWyjG",
-      "title": ""
-    }
-  ],
-  "updated_at": "2026-04-13T19:39:04.776984+00:00",
+  "text": "Think about all the orgs using Claude right now that have no idea how bad it has become over the past 4 weeks ago. \n\nNo statement from Claude - but a total revert to where the model was a year ago - which in comparison to when 4.6 got released is effectively last years AI model.",
+  "raw_text": "Think about all the orgs using Claude right now that have no idea how bad it has become over the past 4 weeks ago. \n\nNo statement from Claude - but a total revert to where the model was a year ago - which in comparison to when 4.6 got released is effectively last years AI model.",
+  "created_at": "2026-04-15T04:52:56+00:00",
+  "media": [],
+  "urls": [],
+  "updated_at": "2026-04-15T05:39:20.105566+00:00",
   "classification": {
     "relevant": true,
-    "reason": "References automatic context compaction, likely discussing an AI coding assistant or LLM tool feature",
-    "tool_mentioned": null
+    "reason": "User is expressing frustration about perceived degradation in Claude AI model quality over recent weeks",
+    "tool_mentioned": "Claude"
   }
 }
