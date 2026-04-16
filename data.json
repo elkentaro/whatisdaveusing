@@ -1,18 +1,25 @@
 {
-  "tweet_id": "2044616297082753281",
-  "tweet_url": "https://twitter.com/hackingdave/status/2044616297082753281",
+  "tweet_id": "2044787916493181209",
+  "tweet_url": "https://twitter.com/hackingdave/status/2044787916493181209",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Just used Claude to try it out a few mins ago. Simple events creation page for my basketball company.\n\n16 bugs, duplicate charge issues, images broken, website UI experience broken.\n\nWelp. Back to codex.",
-  "raw_text": "Just used Claude to try it out a few mins ago. Simple events creation page for my basketball company.\n\n16 bugs, duplicate charge issues, images broken, website UI experience broken.\n\nWelp. Back to codex.",
-  "created_at": "2026-04-16T03:18:07+00:00",
+  "text": "Lets hope this model goes back to how amazing Opus 4.6 was a month ago. https://twitter.com/claudeai/status/2044785261393977612",
+  "raw_text": "Lets hope this model goes back to how amazing Opus 4.6 was a month ago. https://t.co/p5FkAmE6qJ",
+  "created_at": "2026-04-16T14:40:04+00:00",
   "media": [],
-  "urls": [],
-  "updated_at": "2026-04-16T03:39:56.034860+00:00",
+  "urls": [
+    {
+      "short": "https://t.co/p5FkAmE6qJ",
+      "expanded": "https://twitter.com/claudeai/status/2044785261393977612",
+      "display": "x.com/claudeai/statu…",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-04-16T15:40:15.238771+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User describes switching from Claude to Codex after encountering bugs with AI-generated code for their website",
-    "tool_mentioned": "Claude, Codex"
+    "reason": "User is discussing Claude Opus model performance and hoping for improvements",
+    "tool_mentioned": "Claude Opus"
   }
 }
