@@ -1,18 +1,25 @@
 {
-  "tweet_id": "2044277771921170566",
-  "tweet_url": "https://twitter.com/hackingdave/status/2044277771921170566",
+  "tweet_id": "2044606119474004136",
+  "tweet_url": "https://twitter.com/hackingdave/status/2044606119474004136",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Think about all the orgs using Claude right now that have no idea how bad it has become over the past 4 weeks ago. \n\nNo statement from Claude - but a total revert to where the model was a year ago - which in comparison to when 4.6 got released is effectively last years AI model.",
-  "raw_text": "Think about all the orgs using Claude right now that have no idea how bad it has become over the past 4 weeks ago. \n\nNo statement from Claude - but a total revert to where the model was a year ago - which in comparison to when 4.6 got released is effectively last years AI model.",
-  "created_at": "2026-04-15T04:52:56+00:00",
+  "text": "In all seriousness though, companies that are investing in these tools have zero control over code quality, how to protect from prompt injection, what gets shoved and executed into the developers environment, what gets shoved into production. \n\nZero. Controls.\n\nDeath of https://twitter.com/IceSolst/status/2044593385525150140",
+  "raw_text": "In all seriousness though, companies that are investing in these tools have zero control over code quality, how to protect from prompt injection, what gets shoved and executed into the developers environment, what gets shoved into production. \n\nZero. Controls.\n\nDeath of https://t.co/5OTa3cRpgp",
+  "created_at": "2026-04-16T02:37:40+00:00",
   "media": [],
-  "urls": [],
-  "updated_at": "2026-04-15T05:39:20.105566+00:00",
+  "urls": [
+    {
+      "short": "https://t.co/5OTa3cRpgp",
+      "expanded": "https://twitter.com/IceSolst/status/2044593385525150140",
+      "display": "x.com/IceSolst/statu…",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-04-16T02:39:34.837920+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is expressing frustration about perceived degradation in Claude AI model quality over recent weeks",
-    "tool_mentioned": "Claude"
+    "reason": "Discussion about AI coding tools and their security/quality control implications in developer environments",
+    "tool_mentioned": "AI coding assistants"
   }
 }
