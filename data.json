@@ -1,18 +1,25 @@
 {
-  "tweet_id": "2045932056517992768",
-  "tweet_url": "https://twitter.com/hackingdave/status/2045932056517992768",
+  "tweet_id": "2046002489674072102",
+  "tweet_url": "https://twitter.com/hackingdave/status/2046002489674072102",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Pulling the trigger on ordering 8xh100s for TrustedSec. The inconsistencies on frontier models plus how deep we are going with research is a must. \n\nNow I’ll have my own dedicated coding system. Excited ! \n\nMaybe I’ll share with @HackingLZ and @cantcomputer ..",
-  "raw_text": "Pulling the trigger on ordering 8xh100s for TrustedSec. The inconsistencies on frontier models plus how deep we are going with research is a must. \n\nNow I’ll have my own dedicated coding system. Excited ! \n\nMaybe I’ll share with @HackingLZ and @cantcomputer ..",
-  "created_at": "2026-04-19T18:26:28+00:00",
+  "text": "Not a huge fan of any of these CEOs of frontier models, but Sam was smart. Their model is outperforming every other frontier model right now - Claude can’t even come close at the moment. https://twitter.com/the_ai_investor/status/2045980230066790761",
+  "raw_text": "Not a huge fan of any of these CEOs of frontier models, but Sam was smart. Their model is outperforming every other frontier model right now - Claude can’t even come close at the moment. https://t.co/A4msEUoPGW",
+  "created_at": "2026-04-19T23:06:21+00:00",
   "media": [],
-  "urls": [],
-  "updated_at": "2026-04-19T18:41:26.513720+00:00",
+  "urls": [
+    {
+      "short": "https://t.co/A4msEUoPGW",
+      "expanded": "https://twitter.com/the_ai_investor/status/2045980230066790761",
+      "display": "x.com/the_ai_investo…",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-04-19T23:41:42.802150+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is building a dedicated coding system with H100 GPUs for AI research and development work",
-    "tool_mentioned": "H100 GPUs"
+    "reason": "Compares frontier AI models and mentions Claude, discussing model performance",
+    "tool_mentioned": "Claude"
   }
 }
