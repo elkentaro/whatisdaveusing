@@ -1,25 +1,18 @@
 {
-  "tweet_id": "2046002489674072102",
-  "tweet_url": "https://twitter.com/hackingdave/status/2046002489674072102",
+  "tweet_id": "2046312851648987335",
+  "tweet_url": "https://twitter.com/hackingdave/status/2046312851648987335",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Not a huge fan of any of these CEOs of frontier models, but Sam was smart. Their model is outperforming every other frontier model right now - Claude can’t even come close at the moment. https://twitter.com/the_ai_investor/status/2045980230066790761",
-  "raw_text": "Not a huge fan of any of these CEOs of frontier models, but Sam was smart. Their model is outperforming every other frontier model right now - Claude can’t even come close at the moment. https://t.co/A4msEUoPGW",
-  "created_at": "2026-04-19T23:06:21+00:00",
+  "text": "For the enterprises using Claude, if you are using it for heavy enterprise type stuff - be extremely careful. It's introducing massive bugs, security issues, and code quality is way worse than Opus 4.5, substantially worse on both 4.6 and 4.7. \n\nOur entire development team is",
+  "raw_text": "For the enterprises using Claude, if you are using it for heavy enterprise type stuff - be extremely careful. It's introducing massive bugs, security issues, and code quality is way worse than Opus 4.5, substantially worse on both 4.6 and 4.7. \n\nOur entire development team is",
+  "created_at": "2026-04-20T19:39:37+00:00",
   "media": [],
-  "urls": [
-    {
-      "short": "https://t.co/A4msEUoPGW",
-      "expanded": "https://twitter.com/the_ai_investor/status/2045980230066790761",
-      "display": "x.com/the_ai_investo…",
-      "title": ""
-    }
-  ],
-  "updated_at": "2026-04-19T23:41:42.802150+00:00",
+  "urls": [],
+  "updated_at": "2026-04-20T19:41:55.909699+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Compares frontier AI models and mentions Claude, discussing model performance",
+    "reason": "User discusses enterprise experience with Claude AI coding assistant, comparing versions and reporting code quality issues",
     "tool_mentioned": "Claude"
   }
 }
