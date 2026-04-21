@@ -1,18 +1,25 @@
 {
-  "tweet_id": "2046312851648987335",
-  "tweet_url": "https://twitter.com/hackingdave/status/2046312851648987335",
+  "tweet_id": "2046416737336233989",
+  "tweet_url": "https://twitter.com/hackingdave/status/2046416737336233989",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "For the enterprises using Claude, if you are using it for heavy enterprise type stuff - be extremely careful. It's introducing massive bugs, security issues, and code quality is way worse than Opus 4.5, substantially worse on both 4.6 and 4.7. \n\nOur entire development team is",
-  "raw_text": "For the enterprises using Claude, if you are using it for heavy enterprise type stuff - be extremely careful. It's introducing massive bugs, security issues, and code quality is way worse than Opus 4.5, substantially worse on both 4.6 and 4.7. \n\nOur entire development team is",
-  "created_at": "2026-04-20T19:39:37+00:00",
+  "text": "Thread here - wind back. Gonna try Claude tomorrow. Anyone noticing improvements since today on model? https://twitter.com/bcherny/status/2046405959812268472",
+  "raw_text": "Thread here - wind back. Gonna try Claude tomorrow. Anyone noticing improvements since today on model? https://t.co/ZiYT3TghzL",
+  "created_at": "2026-04-21T02:32:25+00:00",
   "media": [],
-  "urls": [],
-  "updated_at": "2026-04-20T19:41:55.909699+00:00",
+  "urls": [
+    {
+      "short": "https://t.co/ZiYT3TghzL",
+      "expanded": "https://twitter.com/bcherny/status/2046405959812268472",
+      "display": "x.com/bcherny/status…",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-04-21T02:42:05.773357+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User discusses enterprise experience with Claude AI coding assistant, comparing versions and reporting code quality issues",
+    "reason": "User is planning to try Claude AI assistant and asking about recent model improvements",
     "tool_mentioned": "Claude"
   }
 }
