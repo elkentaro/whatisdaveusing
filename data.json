@@ -1,25 +1,18 @@
 {
-  "tweet_id": "2046416737336233989",
-  "tweet_url": "https://twitter.com/hackingdave/status/2046416737336233989",
+  "tweet_id": "2046963338605740545",
+  "tweet_url": "https://twitter.com/hackingdave/status/2046963338605740545",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Thread here - wind back. Gonna try Claude tomorrow. Anyone noticing improvements since today on model? https://twitter.com/bcherny/status/2046405959812268472",
-  "raw_text": "Thread here - wind back. Gonna try Claude tomorrow. Anyone noticing improvements since today on model? https://t.co/ZiYT3TghzL",
-  "created_at": "2026-04-21T02:32:25+00:00",
+  "text": "Article I'm quoted in on Forbes on the recent Claude model degrading. \n\nNote, I am not anti-Anthropic in anyway. I loved Opus 4.6 when it first came out. I almost bought a I &lt;3 Claude t-shirt (kinda joking there). \n\nMy concern here is intentional or unintentional model degrades",
+  "raw_text": "Article I'm quoted in on Forbes on the recent Claude model degrading. \n\nNote, I am not anti-Anthropic in anyway. I loved Opus 4.6 when it first came out. I almost bought a I &lt;3 Claude t-shirt (kinda joking there). \n\nMy concern here is intentional or unintentional model degrades",
+  "created_at": "2026-04-22T14:44:25+00:00",
   "media": [],
-  "urls": [
-    {
-      "short": "https://t.co/ZiYT3TghzL",
-      "expanded": "https://twitter.com/bcherny/status/2046405959812268472",
-      "display": "x.com/bcherny/status…",
-      "title": ""
-    }
-  ],
-  "updated_at": "2026-04-21T02:42:05.773357+00:00",
+  "urls": [],
+  "updated_at": "2026-04-22T15:03:47.392432+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is planning to try Claude AI assistant and asking about recent model improvements",
+    "reason": "Discusses Claude AI model performance changes and user experience with the LLM",
     "tool_mentioned": "Claude"
   }
 }
