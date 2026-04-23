@@ -1,18 +1,25 @@
 {
-  "tweet_id": "2047387913470767251",
-  "tweet_url": "https://twitter.com/hackingdave/status/2047387913470767251",
+  "tweet_id": "2047384864362463397",
+  "tweet_url": "https://twitter.com/hackingdave/status/2047384864362463397",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "We live in a strange time where everyone now is an AI and a software engineer expert. Most haven’t ever written a line of code in their life or understand how LLMs truly work - yet they can produce some incredible stuff.\n\nI’m all for it - super innovative… but there are only a",
-  "raw_text": "We live in a strange time where everyone now is an AI and a software engineer expert. Most haven’t ever written a line of code in their life or understand how LLMs truly work - yet they can produce some incredible stuff.\n\nI’m all for it - super innovative… but there are only a",
-  "created_at": "2026-04-23T18:51:31+00:00",
+  "text": "Full breakdown of the model degrade on Anthroptic I’ve been hot on for the past month. Solid level of transparency and analysis from them. \n\nhttps://www.anthropic.com/engineering/april-23-postmortem",
+  "raw_text": "Full breakdown of the model degrade on Anthroptic I’ve been hot on for the past month. Solid level of transparency and analysis from them. \n\nhttps://t.co/au6d64fzAX",
+  "created_at": "2026-04-23T18:39:24+00:00",
   "media": [],
-  "urls": [],
-  "updated_at": "2026-04-23T19:19:57.969523+00:00",
+  "urls": [
+    {
+      "short": "https://t.co/au6d64fzAX",
+      "expanded": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "display": "anthropic.com/engineering/ap…",
+      "title": "An update on recent Claude Code quality reports"
+    }
+  ],
+  "updated_at": "2026-04-23T19:20:08.265200+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Discussion about AI tools enabling non-programmers to build software, referencing LLMs and the democratization of coding through AI assistance",
-    "tool_mentioned": null
+    "reason": "Discusses Anthropic's AI model analysis and transparency, relating to LLM/AI tool ecosystem",
+    "tool_mentioned": "Anthropic"
   }
 }
