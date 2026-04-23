@@ -1,25 +1,18 @@
 {
-  "tweet_id": "2047376330757456139",
-  "tweet_url": "https://twitter.com/hackingdave/status/2047376330757456139",
+  "tweet_id": "2047387913470767251",
+  "tweet_url": "https://twitter.com/hackingdave/status/2047387913470767251",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Mfers were telling me its a skills and prompt issue. \n\nYou all look super silly right now. \n\n25 years developing, I know what I'm doing - finally acknowledged. I'm glad they are trying to address this, but a month to get this out is crummy.\n\nI do appreciate all the fine folks at https://twitter.com/ClaudeDevs/status/2047371123185287223",
-  "raw_text": "Mfers were telling me its a skills and prompt issue. \n\nYou all look super silly right now. \n\n25 years developing, I know what I'm doing - finally acknowledged. I'm glad they are trying to address this, but a month to get this out is crummy.\n\nI do appreciate all the fine folks at https://t.co/0qTOwouj00",
-  "created_at": "2026-04-23T18:05:30+00:00",
+  "text": "We live in a strange time where everyone now is an AI and a software engineer expert. Most haven’t ever written a line of code in their life or understand how LLMs truly work - yet they can produce some incredible stuff.\n\nI’m all for it - super innovative… but there are only a",
+  "raw_text": "We live in a strange time where everyone now is an AI and a software engineer expert. Most haven’t ever written a line of code in their life or understand how LLMs truly work - yet they can produce some incredible stuff.\n\nI’m all for it - super innovative… but there are only a",
+  "created_at": "2026-04-23T18:51:31+00:00",
   "media": [],
-  "urls": [
-    {
-      "short": "https://t.co/0qTOwouj00",
-      "expanded": "https://twitter.com/ClaudeDevs/status/2047371123185287223",
-      "display": "x.com/ClaudeDevs/sta…",
-      "title": ""
-    }
-  ],
-  "updated_at": "2026-04-23T18:19:52.997772+00:00",
+  "urls": [],
+  "updated_at": "2026-04-23T19:19:57.969523+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Developer discussing AI coding assistant issues and mentioning cursor.com as an appreciated alternative",
-    "tool_mentioned": "Cursor"
+    "reason": "Discussion about AI tools enabling non-programmers to build software, referencing LLMs and the democratization of coding through AI assistance",
+    "tool_mentioned": null
   }
 }
