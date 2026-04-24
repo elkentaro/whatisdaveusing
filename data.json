@@ -1,18 +1,18 @@
 {
-  "tweet_id": "2047747265192767812",
-  "tweet_url": "https://twitter.com/hackingdave/status/2047747265192767812",
+  "tweet_id": "2047766258796634362",
+  "tweet_url": "https://twitter.com/hackingdave/status/2047766258796634362",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Just saw a few mins ago Cursor enabled GPT 5.5 ! Lessss go.",
-  "raw_text": "Just saw a few mins ago Cursor enabled GPT 5.5 ! Lessss go.",
-  "created_at": "2026-04-24T18:39:27+00:00",
+  "text": "Also, how I'm tracking this is I have a custom skill that I wrote for Cursor/Codex that also is a hook, that will track metrics over time - for each task I do - it submits it for four critical metrics:\n\n1. Code quality.\n2. Bugs and defects.\n3. Security related issues.\n4.",
+  "raw_text": "Also, how I'm tracking this is I have a custom skill that I wrote for Cursor/Codex that also is a hook, that will track metrics over time - for each task I do - it submits it for four critical metrics:\n\n1. Code quality.\n2. Bugs and defects.\n3. Security related issues.\n4.",
+  "created_at": "2026-04-24T19:54:56+00:00",
   "media": [],
   "urls": [],
-  "updated_at": "2026-04-24T19:20:42.871688+00:00",
+  "updated_at": "2026-04-24T20:21:04.079144+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is excited about Cursor AI coding assistant enabling GPT 5.5 model support",
+    "reason": "User describes building a custom tracking skill for Cursor/Codex to monitor coding metrics",
     "tool_mentioned": "Cursor"
   }
 }
