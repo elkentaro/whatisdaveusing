@@ -1,18 +1,18 @@
 {
-  "tweet_id": "2047766258796634362",
-  "tweet_url": "https://twitter.com/hackingdave/status/2047766258796634362",
+  "tweet_id": "2047762913746911549",
+  "tweet_url": "https://twitter.com/hackingdave/status/2047762913746911549",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Also, how I'm tracking this is I have a custom skill that I wrote for Cursor/Codex that also is a hook, that will track metrics over time - for each task I do - it submits it for four critical metrics:\n\n1. Code quality.\n2. Bugs and defects.\n3. Security related issues.\n4.",
-  "raw_text": "Also, how I'm tracking this is I have a custom skill that I wrote for Cursor/Codex that also is a hook, that will track metrics over time - for each task I do - it submits it for four critical metrics:\n\n1. Code quality.\n2. Bugs and defects.\n3. Security related issues.\n4.",
-  "created_at": "2026-04-24T19:54:56+00:00",
+  "text": "Alright, so here's my current setup:\n\nCodex with GPT 5.5 with extra high reasoning. \nOpus 4.7 with extra high reasoning through Cursor (don't trust claude code harness atm).\n\nGPT 5.5 producing about 8-13% better code quality, 8-12% less bugs, and 27% more thoroughness on",
+  "raw_text": "Alright, so here's my current setup:\n\nCodex with GPT 5.5 with extra high reasoning. \nOpus 4.7 with extra high reasoning through Cursor (don't trust claude code harness atm).\n\nGPT 5.5 producing about 8-13% better code quality, 8-12% less bugs, and 27% more thoroughness on",
+  "created_at": "2026-04-24T19:41:38+00:00",
   "media": [],
   "urls": [],
-  "updated_at": "2026-04-24T20:21:04.079144+00:00",
+  "updated_at": "2026-04-24T20:21:16.062322+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User describes building a custom tracking skill for Cursor/Codex to monitor coding metrics",
-    "tool_mentioned": "Cursor"
+    "reason": "User shares detailed comparison of AI coding tools including Codex with GPT 5.5 and Opus 4.7 through Cursor, with specific performance metrics",
+    "tool_mentioned": "Codex, GPT 5.5, Opus 4.7, Cursor, Claude Code"
   }
 }
