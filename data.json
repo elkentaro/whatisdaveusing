@@ -1,18 +1,18 @@
 {
-  "tweet_id": "2047762913746911549",
-  "tweet_url": "https://twitter.com/hackingdave/status/2047762913746911549",
+  "tweet_id": "2048224907452944477",
+  "tweet_url": "https://twitter.com/hackingdave/status/2048224907452944477",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Alright, so here's my current setup:\n\nCodex with GPT 5.5 with extra high reasoning. \nOpus 4.7 with extra high reasoning through Cursor (don't trust claude code harness atm).\n\nGPT 5.5 producing about 8-13% better code quality, 8-12% less bugs, and 27% more thoroughness on",
-  "raw_text": "Alright, so here's my current setup:\n\nCodex with GPT 5.5 with extra high reasoning. \nOpus 4.7 with extra high reasoning through Cursor (don't trust claude code harness atm).\n\nGPT 5.5 producing about 8-13% better code quality, 8-12% less bugs, and 27% more thoroughness on",
-  "created_at": "2026-04-24T19:41:38+00:00",
+  "text": "Been coding all day today (in between kids sports). Went through my cursor max API plan, and my Codex max plan... Currently sitting at $300 in extra spending ... but damn I built some cool shit 😂",
+  "raw_text": "Been coding all day today (in between kids sports). Went through my cursor max API plan, and my Codex max plan... Currently sitting at $300 in extra spending ... but damn I built some cool shit 😂",
+  "created_at": "2026-04-26T02:17:26+00:00",
   "media": [],
   "urls": [],
-  "updated_at": "2026-04-24T20:21:16.062322+00:00",
+  "updated_at": "2026-04-26T02:21:51.169701+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User shares detailed comparison of AI coding tools including Codex with GPT 5.5 and Opus 4.7 through Cursor, with specific performance metrics",
-    "tool_mentioned": "Codex, GPT 5.5, Opus 4.7, Cursor, Claude Code"
+    "reason": "User discusses heavy usage of Cursor and Codex AI coding assistants with significant spending on their API plans",
+    "tool_mentioned": "Cursor, Codex"
   }
 }
