@@ -1,25 +1,25 @@
 {
-  "tweet_id": "2048572669696618907",
-  "tweet_url": "https://twitter.com/hackingdave/status/2048572669696618907",
+  "tweet_id": "2048579186021875838",
+  "tweet_url": "https://twitter.com/hackingdave/status/2048579186021875838",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Running uncontrolled agents in prod is asking for it 🤣 https://twitter.com/lifeof_jer/status/2048103471019434248",
-  "raw_text": "Running uncontrolled agents in prod is asking for it 🤣 https://t.co/QwlGf4bHOs",
-  "created_at": "2026-04-27T01:19:19+00:00",
+  "text": "Solid blog on Google on prompt injection and using LLMs/AI:\n\nhttps://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html",
+  "raw_text": "Solid blog on Google on prompt injection and using LLMs/AI:\n\nhttps://t.co/pVKbqitwYA",
+  "created_at": "2026-04-27T01:45:13+00:00",
   "media": [],
   "urls": [
     {
-      "short": "https://t.co/QwlGf4bHOs",
-      "expanded": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-      "display": "x.com/lifeof_jer/sta…",
-      "title": ""
+      "short": "https://t.co/pVKbqitwYA",
+      "expanded": "https://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html",
+      "display": "security.googleblog.com/2026/04/ai-thr…",
+      "title": "AI threats in the wild: The current state of prompt injections on the web"
     }
   ],
-  "updated_at": "2026-04-27T01:22:40.989572+00:00",
+  "updated_at": "2026-04-27T02:22:47.230909+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Discussion about AI agents running in production environments",
-    "tool_mentioned": null
+    "reason": "Tweet shares educational content about prompt injection and using LLMs/AI tools",
+    "tool_mentioned": "LLMs"
   }
 }
