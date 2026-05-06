@@ -1,25 +1,18 @@
 {
-  "tweet_id": "2048579186021875838",
-  "tweet_url": "https://twitter.com/hackingdave/status/2048579186021875838",
+  "tweet_id": "2052031212797972672",
+  "tweet_url": "https://twitter.com/hackingdave/status/2052031212797972672",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Solid blog on Google on prompt injection and using LLMs/AI:\n\nhttps://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html",
-  "raw_text": "Solid blog on Google on prompt injection and using LLMs/AI:\n\nhttps://t.co/pVKbqitwYA",
-  "created_at": "2026-04-27T01:45:13+00:00",
+  "text": "Running models in production is scary stuff. I had a test instance I was running - a simple copy of training data to retrain, a script that I run to pull in new training data and build models off of. I've run this script for months. Codex decided to append a --delete this time",
+  "raw_text": "Running models in production is scary stuff. I had a test instance I was running - a simple copy of training data to retrain, a script that I run to pull in new training data and build models off of. I've run this script for months. Codex decided to append a --delete this time",
+  "created_at": "2026-05-06T14:22:20+00:00",
   "media": [],
-  "urls": [
-    {
-      "short": "https://t.co/pVKbqitwYA",
-      "expanded": "https://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html",
-      "display": "security.googleblog.com/2026/04/ai-thr…",
-      "title": "AI threats in the wild: The current state of prompt injections on the web"
-    }
-  ],
-  "updated_at": "2026-04-27T02:22:47.230909+00:00",
+  "urls": [],
+  "updated_at": "2026-05-06T14:24:55.288913+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Tweet shares educational content about prompt injection and using LLMs/AI tools",
-    "tool_mentioned": "LLMs"
+    "reason": "User shares a concerning experience with Codex AI coding assistant unexpectedly modifying their script behavior",
+    "tool_mentioned": "Codex"
   }
 }
