@@ -1,25 +1,31 @@
 {
-  "tweet_id": "2052490027549016276",
-  "tweet_url": "https://twitter.com/hackingdave/status/2052490027549016276",
+  "tweet_id": "2052845952587964797",
+  "tweet_url": "https://twitter.com/hackingdave/status/2052845952587964797",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Or.... they don't have enough compute space for Mythos publicly and an awesome marketing campaign. \n\nOpus 4.7 still doesn't perform as well as 4.6 on its release. \n\nMight change with new data center expansions with Google and xAI, but as of right now - this is all fluff. https://twitter.com/vitrupo/status/2052359534103114177",
-  "raw_text": "Or.... they don't have enough compute space for Mythos publicly and an awesome marketing campaign. \n\nOpus 4.7 still doesn't perform as well as 4.6 on its release. \n\nMight change with new data center expansions with Google and xAI, but as of right now - this is all fluff. https://t.co/xwQbVOb6Ld",
-  "created_at": "2026-05-07T20:45:30+00:00",
-  "media": [],
+  "text": "Just finished tidying up Vishing analysis within NightBeacon AI for @Binary_Defense. \n\nCan upload voice recording, or tie into audio systems to do real-time vishing analysis, understands tonality - urgency - phishing campaigns realtime.\n\n11 minute call took 4.3 seconds to analyze https://x.com/HackingDave/status/2052845952587964797/photo/1",
+  "raw_text": "Just finished tidying up Vishing analysis within NightBeacon AI for @Binary_Defense. \n\nCan upload voice recording, or tie into audio systems to do real-time vishing analysis, understands tonality - urgency - phishing campaigns realtime.\n\n11 minute call took 4.3 seconds to analyze https://t.co/RGBB8DDZ8x",
+  "created_at": "2026-05-08T20:19:49+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HH0sUXNXMAYUUPo.jpg",
+      "alt_text": null
+    }
+  ],
   "urls": [
     {
-      "short": "https://t.co/xwQbVOb6Ld",
-      "expanded": "https://twitter.com/vitrupo/status/2052359534103114177",
-      "display": "x.com/vitrupo/status…",
+      "short": "https://t.co/RGBB8DDZ8x",
+      "expanded": "https://x.com/HackingDave/status/2052845952587964797/photo/1",
+      "display": "pic.x.com/RGBB8DDZ8x",
       "title": ""
     }
   ],
-  "updated_at": "2026-05-07T21:25:57.861004+00:00",
+  "updated_at": "2026-05-08T20:26:32.029692+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Discussion about Claude/Opus AI model performance comparisons and compute infrastructure",
-    "tool_mentioned": "Opus"
+    "reason": "Announcing a custom AI tool (NightBeacon AI) for real-time vishing/phishing analysis with voice processing capabilities.",
+    "tool_mentioned": "NightBeacon AI"
   }
 }
