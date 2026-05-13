@@ -1,18 +1,25 @@
 {
-  "tweet_id": "2053984959354843201",
-  "tweet_url": "https://twitter.com/hackingdave/status/2053984959354843201",
+  "tweet_id": "2054604917327688031",
+  "tweet_url": "https://twitter.com/hackingdave/status/2054604917327688031",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Gpt 5.5 &gt; Opus 4.7",
-  "raw_text": "Gpt 5.5 &gt; Opus 4.7",
-  "created_at": "2026-05-11T23:45:50+00:00",
+  "text": "This is surprising to me, first - GPT 5.5 is a better model than Opus 4.7, and second - the granular enterprise controls you get in OpenAI is way better than the virtually non-existent administrative controls over at Anthropic. https://twitter.com/AndrewCurran_/status/2054582686698848294",
+  "raw_text": "This is surprising to me, first - GPT 5.5 is a better model than Opus 4.7, and second - the granular enterprise controls you get in OpenAI is way better than the virtually non-existent administrative controls over at Anthropic. https://t.co/EvXnTuaU3h",
+  "created_at": "2026-05-13T16:49:19+00:00",
   "media": [],
-  "urls": [],
-  "updated_at": "2026-05-12T00:28:12.263573+00:00",
+  "urls": [
+    {
+      "short": "https://t.co/EvXnTuaU3h",
+      "expanded": "https://twitter.com/AndrewCurran_/status/2054582686698848294",
+      "display": "x.com/AndrewCurran_/…",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-05-13T17:28:57.130710+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Comparing two AI language models (GPT and Claude Opus)",
-    "tool_mentioned": "GPT 5.5, Opus 4.7"
+    "reason": "Compares GPT 5.5 vs Opus 4.7 LLMs and discusses enterprise controls between OpenAI and Anthropic",
+    "tool_mentioned": "GPT 5.5, Opus 4.7, OpenAI, Anthropic"
   }
 }
