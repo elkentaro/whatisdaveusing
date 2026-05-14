@@ -1,25 +1,31 @@
 {
-  "tweet_id": "2054604917327688031",
-  "tweet_url": "https://twitter.com/hackingdave/status/2054604917327688031",
+  "tweet_id": "2054747836210725364",
+  "tweet_url": "https://twitter.com/hackingdave/status/2054747836210725364",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "This is surprising to me, first - GPT 5.5 is a better model than Opus 4.7, and second - the granular enterprise controls you get in OpenAI is way better than the virtually non-existent administrative controls over at Anthropic. https://twitter.com/AndrewCurran_/status/2054582686698848294",
-  "raw_text": "This is surprising to me, first - GPT 5.5 is a better model than Opus 4.7, and second - the granular enterprise controls you get in OpenAI is way better than the virtually non-existent administrative controls over at Anthropic. https://t.co/EvXnTuaU3h",
-  "created_at": "2026-05-13T16:49:19+00:00",
-  "media": [],
+  "text": "If you are a hardcore developer, GPT 5.5 &gt; Opus 4.7. If you are a generalist, 4.7 is fine. https://x.com/HackingDave/status/2054747836210725364/photo/1",
+  "raw_text": "If you are a hardcore developer, GPT 5.5 &gt; Opus 4.7. If you are a generalist, 4.7 is fine. https://t.co/Jdam1Y9KOL",
+  "created_at": "2026-05-14T02:17:14+00:00",
+  "media": [
+    {
+      "type": "animated_gif",
+      "url": "https://pbs.twimg.com/tweet_video_thumb/HIPuQ-BWEAAHKLm.jpg",
+      "alt_text": null
+    }
+  ],
   "urls": [
     {
-      "short": "https://t.co/EvXnTuaU3h",
-      "expanded": "https://twitter.com/AndrewCurran_/status/2054582686698848294",
-      "display": "x.com/AndrewCurran_/…",
+      "short": "https://t.co/Jdam1Y9KOL",
+      "expanded": "https://x.com/HackingDave/status/2054747836210725364/photo/1",
+      "display": "pic.x.com/Jdam1Y9KOL",
       "title": ""
     }
   ],
-  "updated_at": "2026-05-13T17:28:57.130710+00:00",
+  "updated_at": "2026-05-14T02:29:14.736559+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Compares GPT 5.5 vs Opus 4.7 LLMs and discusses enterprise controls between OpenAI and Anthropic",
-    "tool_mentioned": "GPT 5.5, Opus 4.7, OpenAI, Anthropic"
+    "reason": "Compares GPT 5.5 and Opus 4.7 AI models for different developer use cases",
+    "tool_mentioned": "GPT 5.5, Opus 4.7"
   }
 }
