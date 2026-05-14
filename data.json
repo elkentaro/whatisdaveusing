@@ -1,31 +1,25 @@
 {
-  "tweet_id": "2054747836210725364",
-  "tweet_url": "https://twitter.com/hackingdave/status/2054747836210725364",
+  "tweet_id": "2055047026531029487",
+  "tweet_url": "https://twitter.com/hackingdave/status/2055047026531029487",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "If you are a hardcore developer, GPT 5.5 &gt; Opus 4.7. If you are a generalist, 4.7 is fine. https://x.com/HackingDave/status/2054747836210725364/photo/1",
-  "raw_text": "If you are a hardcore developer, GPT 5.5 &gt; Opus 4.7. If you are a generalist, 4.7 is fine. https://t.co/Jdam1Y9KOL",
-  "created_at": "2026-05-14T02:17:14+00:00",
-  "media": [
-    {
-      "type": "animated_gif",
-      "url": "https://pbs.twimg.com/tweet_video_thumb/HIPuQ-BWEAAHKLm.jpg",
-      "alt_text": null
-    }
-  ],
+  "text": "Sweet. A more affordable harness into Grok which competes with Claude Code + Codex. Biggest gain here is xAI has a massive data center that isn't tapped resource wise. Might be a viable option here although they are slightly below GPT 5.5 / Opus 4.7.\n\nCurious to see how this https://twitter.com/xai/status/2054993285152989373",
+  "raw_text": "Sweet. A more affordable harness into Grok which competes with Claude Code + Codex. Biggest gain here is xAI has a massive data center that isn't tapped resource wise. Might be a viable option here although they are slightly below GPT 5.5 / Opus 4.7.\n\nCurious to see how this https://t.co/n3aorUZNKc",
+  "created_at": "2026-05-14T22:06:06+00:00",
+  "media": [],
   "urls": [
     {
-      "short": "https://t.co/Jdam1Y9KOL",
-      "expanded": "https://x.com/HackingDave/status/2054747836210725364/photo/1",
-      "display": "pic.x.com/Jdam1Y9KOL",
+      "short": "https://t.co/n3aorUZNKc",
+      "expanded": "https://twitter.com/xai/status/2054993285152989373",
+      "display": "x.com/xai/status/205…",
       "title": ""
     }
   ],
-  "updated_at": "2026-05-14T02:29:14.736559+00:00",
+  "updated_at": "2026-05-14T22:29:25.171236+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Compares GPT 5.5 and Opus 4.7 AI models for different developer use cases",
-    "tool_mentioned": "GPT 5.5, Opus 4.7"
+    "reason": "Discusses AI coding tools including Grok, Claude Code, Codex, GPT, and Opus with comparison of capabilities and resources",
+    "tool_mentioned": "Grok"
   }
 }
