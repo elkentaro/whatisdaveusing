@@ -1,25 +1,18 @@
 {
-  "tweet_id": "2055047026531029487",
-  "tweet_url": "https://twitter.com/hackingdave/status/2055047026531029487",
+  "tweet_id": "2055073222706561447",
+  "tweet_url": "https://twitter.com/hackingdave/status/2055073222706561447",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Sweet. A more affordable harness into Grok which competes with Claude Code + Codex. Biggest gain here is xAI has a massive data center that isn't tapped resource wise. Might be a viable option here although they are slightly below GPT 5.5 / Opus 4.7.\n\nCurious to see how this https://twitter.com/xai/status/2054993285152989373",
-  "raw_text": "Sweet. A more affordable harness into Grok which competes with Claude Code + Codex. Biggest gain here is xAI has a massive data center that isn't tapped resource wise. Might be a viable option here although they are slightly below GPT 5.5 / Opus 4.7.\n\nCurious to see how this https://t.co/n3aorUZNKc",
-  "created_at": "2026-05-14T22:06:06+00:00",
+  "text": "One thing I noticed is Grok Build is extremely rigid on reading all .md files each and every prompt and does not forget them. That's a huge gain right there.",
+  "raw_text": "One thing I noticed is Grok Build is extremely rigid on reading all .md files each and every prompt and does not forget them. That's a huge gain right there.",
+  "created_at": "2026-05-14T23:50:12+00:00",
   "media": [],
-  "urls": [
-    {
-      "short": "https://t.co/n3aorUZNKc",
-      "expanded": "https://twitter.com/xai/status/2054993285152989373",
-      "display": "x.com/xai/status/205…",
-      "title": ""
-    }
-  ],
-  "updated_at": "2026-05-14T22:29:25.171236+00:00",
+  "urls": [],
+  "updated_at": "2026-05-15T02:30:22.456034+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Discusses AI coding tools including Grok, Claude Code, Codex, GPT, and Opus with comparison of capabilities and resources",
-    "tool_mentioned": "Grok"
+    "reason": "User is discussing Grok Build's behavior with markdown files and highlighting it as a beneficial feature for their workflow.",
+    "tool_mentioned": "Grok Build"
   }
 }
