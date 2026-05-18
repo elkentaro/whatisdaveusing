@@ -1,18 +1,31 @@
 {
-  "tweet_id": "2055073222706561447",
-  "tweet_url": "https://twitter.com/hackingdave/status/2055073222706561447",
+  "tweet_id": "2056200916802363409",
+  "tweet_url": "https://twitter.com/hackingdave/status/2056200916802363409",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "One thing I noticed is Grok Build is extremely rigid on reading all .md files each and every prompt and does not forget them. That's a huge gain right there.",
-  "raw_text": "One thing I noticed is Grok Build is extremely rigid on reading all .md files each and every prompt and does not forget them. That's a huge gain right there.",
-  "created_at": "2026-05-14T23:50:12+00:00",
-  "media": [],
-  "urls": [],
-  "updated_at": "2026-05-15T02:30:22.456034+00:00",
+  "text": "Goal in codex is no joke lol. 2 days running and still going. ' https://x.com/HackingDave/status/2056200916802363409/photo/1",
+  "raw_text": "Goal in codex is no joke lol. 2 days running and still going. ' https://t.co/nNspi0hBYS",
+  "created_at": "2026-05-18T02:31:15+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HIkX1axXAAA4P_a.png",
+      "alt_text": null
+    }
+  ],
+  "urls": [
+    {
+      "short": "https://t.co/nNspi0hBYS",
+      "expanded": "https://x.com/HackingDave/status/2056200916802363409/photo/1",
+      "display": "pic.x.com/nNspi0hBYS",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-05-18T02:31:45.409132+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is discussing Grok Build's behavior with markdown files and highlighting it as a beneficial feature for their workflow.",
-    "tool_mentioned": "Grok Build"
+    "reason": "User is discussing their experience with Codex, an AI coding tool, mentioning extended usage over 2 days.",
+    "tool_mentioned": "Codex"
   }
 }
