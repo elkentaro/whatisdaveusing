@@ -1,31 +1,18 @@
 {
-  "tweet_id": "2056200916802363409",
-  "tweet_url": "https://twitter.com/hackingdave/status/2056200916802363409",
+  "tweet_id": "2070207278351863988",
+  "tweet_url": "https://twitter.com/hackingdave/status/2070207278351863988",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Goal in codex is no joke lol. 2 days running and still going. ' https://x.com/HackingDave/status/2056200916802363409/photo/1",
-  "raw_text": "Goal in codex is no joke lol. 2 days running and still going. ' https://t.co/nNspi0hBYS",
-  "created_at": "2026-05-18T02:31:15+00:00",
-  "media": [
-    {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HIkX1axXAAA4P_a.png",
-      "alt_text": null
-    }
-  ],
-  "urls": [
-    {
-      "short": "https://t.co/nNspi0hBYS",
-      "expanded": "https://x.com/HackingDave/status/2056200916802363409/photo/1",
-      "display": "pic.x.com/nNspi0hBYS",
-      "title": ""
-    }
-  ],
-  "updated_at": "2026-05-18T02:31:45.409132+00:00",
+  "text": "Primary day to day driver: Codex\nBug fix automation and code analysis: Cursor\nDesign, Spec, UI designs: Claude\n\nThe three of those combined are knocking my efficiency out of the park.",
+  "raw_text": "Primary day to day driver: Codex\nBug fix automation and code analysis: Cursor\nDesign, Spec, UI designs: Claude\n\nThe three of those combined are knocking my efficiency out of the park.",
+  "created_at": "2026-06-25T18:07:32+00:00",
+  "media": [],
+  "urls": [],
+  "updated_at": "2026-06-25T23:43:50.296316+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is discussing their experience with Codex, an AI coding tool, mentioning extended usage over 2 days.",
-    "tool_mentioned": "Codex"
+    "reason": "User shares their daily workflow stack combining multiple AI coding tools and their specific use cases",
+    "tool_mentioned": "Codex, Cursor, Claude"
   }
 }
