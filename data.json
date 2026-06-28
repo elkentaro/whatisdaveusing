@@ -1,18 +1,25 @@
 {
-  "tweet_id": "2070207278351863988",
-  "tweet_url": "https://twitter.com/hackingdave/status/2070207278351863988",
+  "tweet_id": "2071315918009831555",
+  "tweet_url": "https://twitter.com/hackingdave/status/2071315918009831555",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Primary day to day driver: Codex\nBug fix automation and code analysis: Cursor\nDesign, Spec, UI designs: Claude\n\nThe three of those combined are knocking my efficiency out of the park.",
-  "raw_text": "Primary day to day driver: Codex\nBug fix automation and code analysis: Cursor\nDesign, Spec, UI designs: Claude\n\nThe three of those combined are knocking my efficiency out of the park.",
-  "created_at": "2026-06-25T18:07:32+00:00",
+  "text": "This is a super major issue facing us. As subsidies of the frontier models fade out and cost of them become more expensive - the non subsidized non frontier models are going to take over. \n\nThe open models aren’t on parity by any stretch to 4.8 or 5.5 and especially not with 5.6 https://twitter.com/ric_rtp/status/2071234126355550721",
+  "raw_text": "This is a super major issue facing us. As subsidies of the frontier models fade out and cost of them become more expensive - the non subsidized non frontier models are going to take over. \n\nThe open models aren’t on parity by any stretch to 4.8 or 5.5 and especially not with 5.6 https://t.co/mhVCM5e4jX",
+  "created_at": "2026-06-28T19:32:52+00:00",
   "media": [],
-  "urls": [],
-  "updated_at": "2026-06-25T23:43:50.296316+00:00",
+  "urls": [
+    {
+      "short": "https://t.co/mhVCM5e4jX",
+      "expanded": "https://twitter.com/ric_rtp/status/2071234126355550721",
+      "display": "x.com/ric_rtp/status…",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-06-28T19:44:55.236763+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User shares their daily workflow stack combining multiple AI coding tools and their specific use cases",
-    "tool_mentioned": "Codex, Cursor, Claude"
+    "reason": "Discusses AI/LLM model economics and compares frontier models (likely referring to GPT-4.8, 5.5, 5.6) versus open models.",
+    "tool_mentioned": null
   }
 }
