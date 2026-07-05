@@ -1,31 +1,37 @@
 {
-  "tweet_id": "2073843790989734301",
-  "tweet_url": "https://twitter.com/hackingdave/status/2073843790989734301",
+  "tweet_id": "2073880384362676291",
+  "tweet_url": "https://twitter.com/hackingdave/status/2073880384362676291",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Awww man, I'm 80 percent done with this feature set and I haven't been downgraded to 4.8 yet. \n\nFingers crossed. https://x.com/HackingDave/status/2073843790989734301/photo/1",
-  "raw_text": "Awww man, I'm 80 percent done with this feature set and I haven't been downgraded to 4.8 yet. \n\nFingers crossed. https://t.co/66zVEWTIAa",
-  "created_at": "2026-07-05T18:57:44+00:00",
+  "text": "Switched orgs over to OpenAI. I still use multiple frontier models depending on use case but codex is my/our daily driver. Substantially more trust in the folks there and much more reliable and cost effective. https://x.com/HackingDave/status/2073880384362676291/photo/1 https://twitter.com/strimblez/status/2073798067355353568",
+  "raw_text": "Switched orgs over to OpenAI. I still use multiple frontier models depending on use case but codex is my/our daily driver. Substantially more trust in the folks there and much more reliable and cost effective. https://t.co/MKnCNm4rEx https://t.co/fadDH1nyW8",
+  "created_at": "2026-07-05T21:23:09+00:00",
   "media": [
     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HMfF70TWkAA_lGC.png",
+      "type": "animated_gif",
+      "url": "https://pbs.twimg.com/tweet_video_thumb/HMfnN2BWcAAg3Mj.jpg",
       "alt_text": null
     }
   ],
   "urls": [
     {
-      "short": "https://t.co/66zVEWTIAa",
-      "expanded": "https://x.com/HackingDave/status/2073843790989734301/photo/1",
-      "display": "pic.x.com/66zVEWTIAa",
+      "short": "https://t.co/MKnCNm4rEx",
+      "expanded": "https://x.com/HackingDave/status/2073880384362676291/photo/1",
+      "display": "pic.x.com/MKnCNm4rEx",
+      "title": ""
+    },
+    {
+      "short": "https://t.co/fadDH1nyW8",
+      "expanded": "https://twitter.com/strimblez/status/2073798067355353568",
+      "display": "x.com/strimblez/stat…",
       "title": ""
     }
   ],
-  "updated_at": "2026-07-05T19:09:15.740359+00:00",
+  "updated_at": "2026-07-05T22:09:28.152982+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is discussing being downgraded to a different model version (likely Claude 4.8), indicating usage of an AI coding assistant",
-    "tool_mentioned": "Claude"
+    "reason": "User describes switching their organization to OpenAI's Codex as their primary coding assistant, citing trust, reliability and cost-effectiveness.",
+    "tool_mentioned": "Codex"
   }
 }
