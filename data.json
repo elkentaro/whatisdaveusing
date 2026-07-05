@@ -1,31 +1,31 @@
 {
-  "tweet_id": "2072467260157858107",
-  "tweet_url": "https://twitter.com/hackingdave/status/2072467260157858107",
+  "tweet_id": "2073843790989734301",
+  "tweet_url": "https://twitter.com/hackingdave/status/2073843790989734301",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Does anyone else get this like cold sweat feeling when you think about all the hand coding you used to do, the countless hours late night - researching best approach, actually coding it... then looking at what you have now and looking back at that like https://x.com/HackingDave/status/2072467260157858107/photo/1",
-  "raw_text": "Does anyone else get this like cold sweat feeling when you think about all the hand coding you used to do, the countless hours late night - researching best approach, actually coding it... then looking at what you have now and looking back at that like https://t.co/GmTxCA6Cs8",
-  "created_at": "2026-07-01T23:47:54+00:00",
+  "text": "Awww man, I'm 80 percent done with this feature set and I haven't been downgraded to 4.8 yet. \n\nFingers crossed. https://x.com/HackingDave/status/2073843790989734301/photo/1",
+  "raw_text": "Awww man, I'm 80 percent done with this feature set and I haven't been downgraded to 4.8 yet. \n\nFingers crossed. https://t.co/66zVEWTIAa",
+  "created_at": "2026-07-05T18:57:44+00:00",
   "media": [
     {
-      "type": "animated_gif",
-      "url": "https://pbs.twimg.com/tweet_video_thumb/HMLh-5uWMAA_6Iq.jpg",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HMfF70TWkAA_lGC.png",
       "alt_text": null
     }
   ],
   "urls": [
     {
-      "short": "https://t.co/GmTxCA6Cs8",
-      "expanded": "https://x.com/HackingDave/status/2072467260157858107/photo/1",
-      "display": "pic.x.com/GmTxCA6Cs8",
+      "short": "https://t.co/66zVEWTIAa",
+      "expanded": "https://x.com/HackingDave/status/2073843790989734301/photo/1",
+      "display": "pic.x.com/66zVEWTIAa",
       "title": ""
     }
   ],
-  "updated_at": "2026-07-01T23:52:08.188945+00:00",
+  "updated_at": "2026-07-05T19:09:15.740359+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Reflects on the contrast between traditional hand-coding and modern AI-assisted development workflows",
-    "tool_mentioned": null
+    "reason": "User is discussing being downgraded to a different model version (likely Claude 4.8), indicating usage of an AI coding assistant",
+    "tool_mentioned": "Claude"
   }
 }
