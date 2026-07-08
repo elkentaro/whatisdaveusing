@@ -1,37 +1,31 @@
 {
-  "tweet_id": "2073880384362676291",
-  "tweet_url": "https://twitter.com/hackingdave/status/2073880384362676291",
+  "tweet_id": "2074891719670137075",
+  "tweet_url": "https://twitter.com/hackingdave/status/2074891719670137075",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Switched orgs over to OpenAI. I still use multiple frontier models depending on use case but codex is my/our daily driver. Substantially more trust in the folks there and much more reliable and cost effective. https://x.com/HackingDave/status/2073880384362676291/photo/1 https://twitter.com/strimblez/status/2073798067355353568",
-  "raw_text": "Switched orgs over to OpenAI. I still use multiple frontier models depending on use case but codex is my/our daily driver. Substantially more trust in the folks there and much more reliable and cost effective. https://t.co/MKnCNm4rEx https://t.co/fadDH1nyW8",
-  "created_at": "2026-07-05T21:23:09+00:00",
+  "text": "Binary Defense's NightBeacon has an insanely powerful feature around playbooks, detection engineering, and connector tuning.\n\nUse the AI assistant to build your detections, it smoke tests it by historically going back in time on your data via our connectors framework to refine https://x.com/HackingDave/status/2074891719670137075/photo/1",
+  "raw_text": "Binary Defense's NightBeacon has an insanely powerful feature around playbooks, detection engineering, and connector tuning.\n\nUse the AI assistant to build your detections, it smoke tests it by historically going back in time on your data via our connectors framework to refine https://t.co/XwCdKewe5J",
+  "created_at": "2026-07-08T16:21:50+00:00",
   "media": [
     {
-      "type": "animated_gif",
-      "url": "https://pbs.twimg.com/tweet_video_thumb/HMfnN2BWcAAg3Mj.jpg",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HMt-07cWQAAl7qL.jpg",
       "alt_text": null
     }
   ],
   "urls": [
     {
-      "short": "https://t.co/MKnCNm4rEx",
-      "expanded": "https://x.com/HackingDave/status/2073880384362676291/photo/1",
-      "display": "pic.x.com/MKnCNm4rEx",
-      "title": ""
-    },
-    {
-      "short": "https://t.co/fadDH1nyW8",
-      "expanded": "https://twitter.com/strimblez/status/2073798067355353568",
-      "display": "x.com/strimblez/stat…",
+      "short": "https://t.co/XwCdKewe5J",
+      "expanded": "https://x.com/HackingDave/status/2074891719670137075/photo/1",
+      "display": "pic.x.com/XwCdKewe5J",
       "title": ""
     }
   ],
-  "updated_at": "2026-07-05T22:09:28.152982+00:00",
+  "updated_at": "2026-07-08T17:10:14.481186+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User describes switching their organization to OpenAI's Codex as their primary coding assistant, citing trust, reliability and cost-effectiveness.",
-    "tool_mentioned": "Codex"
+    "reason": "Discusses NightBeacon's AI assistant feature for building security detections and its capabilities",
+    "tool_mentioned": "NightBeacon"
   }
 }
