@@ -1,31 +1,25 @@
 {
-  "tweet_id": "2074891719670137075",
-  "tweet_url": "https://twitter.com/hackingdave/status/2074891719670137075",
+  "tweet_id": "2076374818971140276",
+  "tweet_url": "https://twitter.com/hackingdave/status/2076374818971140276",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Binary Defense's NightBeacon has an insanely powerful feature around playbooks, detection engineering, and connector tuning.\n\nUse the AI assistant to build your detections, it smoke tests it by historically going back in time on your data via our connectors framework to refine https://x.com/HackingDave/status/2074891719670137075/photo/1",
-  "raw_text": "Binary Defense's NightBeacon has an insanely powerful feature around playbooks, detection engineering, and connector tuning.\n\nUse the AI assistant to build your detections, it smoke tests it by historically going back in time on your data via our connectors framework to refine https://t.co/XwCdKewe5J",
-  "created_at": "2026-07-08T16:21:50+00:00",
-  "media": [
-    {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HMt-07cWQAAl7qL.jpg",
-      "alt_text": null
-    }
-  ],
+  "text": "Why I’m an OpenAI fan right here - how they communicate with folks; ample resets, and continual communication when things are happening https://twitter.com/thsottiaux/status/2076365965915467978",
+  "raw_text": "Why I’m an OpenAI fan right here - how they communicate with folks; ample resets, and continual communication when things are happening https://t.co/A8Xli3gKrK",
+  "created_at": "2026-07-12T18:35:08+00:00",
+  "media": [],
   "urls": [
     {
-      "short": "https://t.co/XwCdKewe5J",
-      "expanded": "https://x.com/HackingDave/status/2074891719670137075/photo/1",
-      "display": "pic.x.com/XwCdKewe5J",
+      "short": "https://t.co/A8Xli3gKrK",
+      "expanded": "https://twitter.com/thsottiaux/status/2076365965915467978",
+      "display": "x.com/thsottiaux/sta…",
       "title": ""
     }
   ],
-  "updated_at": "2026-07-08T17:10:14.481186+00:00",
+  "updated_at": "2026-07-12T19:11:09.919717+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Discusses NightBeacon's AI assistant feature for building security detections and its capabilities",
-    "tool_mentioned": "NightBeacon"
+    "reason": "Expressing positive sentiment about OpenAI as a company/service provider",
+    "tool_mentioned": "OpenAI"
   }
 }
