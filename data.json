@@ -1,25 +1,18 @@
 {
-  "tweet_id": "2077456332290994261",
-  "tweet_url": "https://twitter.com/hackingdave/status/2077456332290994261",
+  "tweet_id": "2077489878451810462",
+  "tweet_url": "https://twitter.com/hackingdave/status/2077489878451810462",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Want to take NightBeacon CMD for a spin? \n\nSmall intake form, and once approved (within minutes) you'll be shipped into a completely simulated environment where you can see, interact, and play with what NightBeacon CMD really is.\n\nhttps://nightbeacon.binarydefense.com/live-demo\n\n#BinaryDefense",
-  "raw_text": "Want to take NightBeacon CMD for a spin? \n\nSmall intake form, and once approved (within minutes) you'll be shipped into a completely simulated environment where you can see, interact, and play with what NightBeacon CMD really is.\n\nhttps://t.co/hKm5dedbU4\n\n#BinaryDefense",
-  "created_at": "2026-07-15T18:12:41+00:00",
+  "text": "NightBeacon doesn’t use any frontier models which gives us some huge advantages, first is cost and token usage - we are extremely affordable and you should never burn through credit usage - it’s virtually unlimited. I would be shocked if anyone ever hit a cap for usage. We also",
+  "raw_text": "NightBeacon doesn’t use any frontier models which gives us some huge advantages, first is cost and token usage - we are extremely affordable and you should never burn through credit usage - it’s virtually unlimited. I would be shocked if anyone ever hit a cap for usage. We also",
+  "created_at": "2026-07-15T20:25:59+00:00",
   "media": [],
-  "urls": [
-    {
-      "short": "https://t.co/hKm5dedbU4",
-      "expanded": "https://nightbeacon.binarydefense.com/live-demo",
-      "display": "nightbeacon.binarydefense.com/live-demo",
-      "title": "NightBeacon CMD"
-    }
-  ],
-  "updated_at": "2026-07-15T19:12:17.422762+00:00",
+  "urls": [],
+  "updated_at": "2026-07-15T21:12:22.030822+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Promoting NightBeacon CMD, a cybersecurity/defense tool with a simulated testing environment",
-    "tool_mentioned": "NightBeacon CMD"
+    "reason": "Discusses AI model architecture choices and token usage economics for their product NightBeacon",
+    "tool_mentioned": "NightBeacon"
   }
 }
