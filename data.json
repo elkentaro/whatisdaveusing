@@ -1,18 +1,31 @@
 {
-  "tweet_id": "2077489878451810462",
-  "tweet_url": "https://twitter.com/hackingdave/status/2077489878451810462",
+  "tweet_id": "2077885659222593704",
+  "tweet_url": "https://twitter.com/hackingdave/status/2077885659222593704",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "NightBeacon doesn’t use any frontier models which gives us some huge advantages, first is cost and token usage - we are extremely affordable and you should never burn through credit usage - it’s virtually unlimited. I would be shocked if anyone ever hit a cap for usage. We also",
-  "raw_text": "NightBeacon doesn’t use any frontier models which gives us some huge advantages, first is cost and token usage - we are extremely affordable and you should never burn through credit usage - it’s virtually unlimited. I would be shocked if anyone ever hit a cap for usage. We also",
-  "created_at": "2026-07-15T20:25:59+00:00",
-  "media": [],
-  "urls": [],
-  "updated_at": "2026-07-15T21:12:22.030822+00:00",
+  "text": "Claude getting pissed that we are submitting too many MR and fast and it can't keep up 😂 https://x.com/HackingDave/status/2077885659222593704/photo/1",
+  "raw_text": "Claude getting pissed that we are submitting too many MR and fast and it can't keep up 😂 https://t.co/9xw2SszRye",
+  "created_at": "2026-07-16T22:38:41+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HNYh8I0XAAAXfmQ.jpg",
+      "alt_text": null
+    }
+  ],
+  "urls": [
+    {
+      "short": "https://t.co/9xw2SszRye",
+      "expanded": "https://x.com/HackingDave/status/2077885659222593704/photo/1",
+      "display": "pic.x.com/9xw2SszRye",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-07-16T23:12:48.697054+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Discusses AI model architecture choices and token usage economics for their product NightBeacon",
-    "tool_mentioned": "NightBeacon"
+    "reason": "Tweet references Claude (AI coding assistant) struggling to keep up with merge request submissions, indicating active use of AI development tools",
+    "tool_mentioned": "Claude"
   }
 }
