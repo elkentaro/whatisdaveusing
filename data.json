@@ -1,25 +1,18 @@
 {
-  "tweet_id": "2079392242658087394",
-  "tweet_url": "https://twitter.com/hackingdave/status/2079392242658087394",
+  "tweet_id": "2079595421106655562",
+  "tweet_url": "https://twitter.com/hackingdave/status/2079595421106655562",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Yay. We are getting paid for our metasploit book we wrote that was used to train the model on cybersecurity. https://twitter.com/polymarket/status/2079374801274290404",
-  "raw_text": "Yay. We are getting paid for our metasploit book we wrote that was used to train the model on cybersecurity. https://t.co/BaYyRsfUWs",
-  "created_at": "2026-07-21T02:25:18+00:00",
+  "text": "GPT 5.6 Sol on extra high or more reasoning/ultra is behaving strangely. It will work for days at a time chugging through things extremely slowly, never completing. Medium/Fast works great, but anything above that it's not very usable and seems to be bugged out",
+  "raw_text": "GPT 5.6 Sol on extra high or more reasoning/ultra is behaving strangely. It will work for days at a time chugging through things extremely slowly, never completing. Medium/Fast works great, but anything above that it's not very usable and seems to be bugged out",
+  "created_at": "2026-07-21T15:52:40+00:00",
   "media": [],
-  "urls": [
-    {
-      "short": "https://t.co/BaYyRsfUWs",
-      "expanded": "https://twitter.com/polymarket/status/2079374801274290404",
-      "display": "x.com/polymarket/sta…",
-      "title": ""
-    }
-  ],
-  "updated_at": "2026-07-21T03:14:19.210201+00:00",
+  "urls": [],
+  "updated_at": "2026-07-21T16:14:39.197271+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Tweet discusses AI model training compensation, relating to LLM/AI development practices",
-    "tool_mentioned": "metasploit"
+    "reason": "User is discussing issues with GPT model performance at different reasoning levels, indicating active use of AI coding/reasoning tools",
+    "tool_mentioned": "GPT"
   }
 }
