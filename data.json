@@ -1,18 +1,25 @@
 {
-  "tweet_id": "2078232162478801272",
-  "tweet_url": "https://twitter.com/hackingdave/status/2078232162478801272",
+  "tweet_id": "2079392242658087394",
+  "tweet_url": "https://twitter.com/hackingdave/status/2079392242658087394",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "One badass thing we added to NightBeacon... there's multiple modes of enrich:\n\n1. Fill in missing gaps - will look at a situation/alarm and what information is missing in the alarm and pull that back for you and automatically update the situation/alarm.\n\n2. Full scope enrich -",
-  "raw_text": "One badass thing we added to NightBeacon... there's multiple modes of enrich:\n\n1. Fill in missing gaps - will look at a situation/alarm and what information is missing in the alarm and pull that back for you and automatically update the situation/alarm.\n\n2. Full scope enrich -",
-  "created_at": "2026-07-17T21:35:33+00:00",
+  "text": "Yay. We are getting paid for our metasploit book we wrote that was used to train the model on cybersecurity. https://twitter.com/polymarket/status/2079374801274290404",
+  "raw_text": "Yay. We are getting paid for our metasploit book we wrote that was used to train the model on cybersecurity. https://t.co/BaYyRsfUWs",
+  "created_at": "2026-07-21T02:25:18+00:00",
   "media": [],
-  "urls": [],
-  "updated_at": "2026-07-17T22:13:16.781346+00:00",
+  "urls": [
+    {
+      "short": "https://t.co/BaYyRsfUWs",
+      "expanded": "https://twitter.com/polymarket/status/2079374801274290404",
+      "display": "x.com/polymarket/sta…",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-07-21T03:14:19.210201+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is describing features of NightBeacon, which appears to be a developer/workflow tool for alarm management and data enrichment",
-    "tool_mentioned": "NightBeacon"
+    "reason": "Tweet discusses AI model training compensation, relating to LLM/AI development practices",
+    "tool_mentioned": "metasploit"
   }
 }
