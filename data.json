@@ -1,25 +1,25 @@
 {
-  "tweet_id": "2079722960240124380",
-  "tweet_url": "https://twitter.com/hackingdave/status/2079722960240124380",
+  "tweet_id": "2079759380329730367",
+  "tweet_url": "https://twitter.com/hackingdave/status/2079759380329730367",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "PoC||GTFO\n\nThey sure did the POC part. Well done. Well done.\n\nConversely different btw than Anthropic who was like omg cyber nukes too dangerous for humanity. Buy Mythos. \n\nhttps://openai.com/index/hugging-face-model-evaluation-security-incident/",
-  "raw_text": "PoC||GTFO\n\nThey sure did the POC part. Well done. Well done.\n\nConversely different btw than Anthropic who was like omg cyber nukes too dangerous for humanity. Buy Mythos. \n\nhttps://t.co/gZYL236GFv",
-  "created_at": "2026-07-22T00:19:27+00:00",
+  "text": "I've been using expo a ton, this is a great add-on to that for continual iteration to perfection. Love it. https://twitter.com/ClaudeDevs/status/2079674432038248611",
+  "raw_text": "I've been using expo a ton, this is a great add-on to that for continual iteration to perfection. Love it. https://t.co/1A6mFHeq3g",
+  "created_at": "2026-07-22T02:44:10+00:00",
   "media": [],
   "urls": [
     {
-      "short": "https://t.co/gZYL236GFv",
-      "expanded": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "display": "openai.com/index/hugging-…",
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation"
+      "short": "https://t.co/1A6mFHeq3g",
+      "expanded": "https://twitter.com/ClaudeDevs/status/2079674432038248611",
+      "display": "x.com/ClaudeDevs/sta…",
+      "title": ""
     }
   ],
-  "updated_at": "2026-07-22T01:15:44.758621+00:00",
+  "updated_at": "2026-07-22T03:15:49.442125+00:00",
   "classification": {
     "relevant": true,
-    "reason": "References Anthropic in context of AI capabilities and compares company approaches to AI safety/tooling",
-    "tool_mentioned": "Anthropic"
+    "reason": "User is recommending Expo (React Native framework) and an add-on tool for iterative development workflow",
+    "tool_mentioned": "Expo"
   }
 }
