@@ -1,18 +1,25 @@
 {
-  "tweet_id": "2079662667581518007",
-  "tweet_url": "https://twitter.com/hackingdave/status/2079662667581518007",
+  "tweet_id": "2079722960240124380",
+  "tweet_url": "https://twitter.com/hackingdave/status/2079722960240124380",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "I really appreciate how Google Play developers program is structured. Super simple to get up and running, verifications all automated. Takes ten minutes from start to having an app published. Updates are done in &lt; 30 mins to Google Play store. \n\nOn the other hand, Apple - purely",
-  "raw_text": "I really appreciate how Google Play developers program is structured. Super simple to get up and running, verifications all automated. Takes ten minutes from start to having an app published. Updates are done in &lt; 30 mins to Google Play store. \n\nOn the other hand, Apple - purely",
-  "created_at": "2026-07-21T20:19:52+00:00",
+  "text": "PoC||GTFO\n\nThey sure did the POC part. Well done. Well done.\n\nConversely different btw than Anthropic who was like omg cyber nukes too dangerous for humanity. Buy Mythos. \n\nhttps://openai.com/index/hugging-face-model-evaluation-security-incident/",
+  "raw_text": "PoC||GTFO\n\nThey sure did the POC part. Well done. Well done.\n\nConversely different btw than Anthropic who was like omg cyber nukes too dangerous for humanity. Buy Mythos. \n\nhttps://t.co/gZYL236GFv",
+  "created_at": "2026-07-22T00:19:27+00:00",
   "media": [],
-  "urls": [],
-  "updated_at": "2026-07-21T21:15:35.015894+00:00",
+  "urls": [
+    {
+      "short": "https://t.co/gZYL236GFv",
+      "expanded": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "display": "openai.com/index/hugging-…",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation"
+    }
+  ],
+  "updated_at": "2026-07-22T01:15:44.758621+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Developer comparing app store publishing workflows and developer experience between Google Play and Apple",
-    "tool_mentioned": "Google Play"
+    "reason": "References Anthropic in context of AI capabilities and compares company approaches to AI safety/tooling",
+    "tool_mentioned": "Anthropic"
   }
 }
