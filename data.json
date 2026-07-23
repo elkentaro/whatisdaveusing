@@ -1,18 +1,31 @@
 {
-  "tweet_id": "2080096211911274677",
-  "tweet_url": "https://twitter.com/hackingdave/status/2080096211911274677",
+  "tweet_id": "2080373555389202481",
+  "tweet_url": "https://twitter.com/hackingdave/status/2080373555389202481",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "One amazing thing I focused heavily on was fixing traditional log ingestion and detection engineering in NightBeacon. We use a AI native universal log normalizer / parser that doesn’t worry about source technology.\n\nThen we use agents inspecting every submission of source. If",
-  "raw_text": "One amazing thing I focused heavily on was fixing traditional log ingestion and detection engineering in NightBeacon. We use a AI native universal log normalizer / parser that doesn’t worry about source technology.\n\nThen we use agents inspecting every submission of source. If",
-  "created_at": "2026-07-23T01:02:37+00:00",
-  "media": [],
-  "urls": [],
-  "updated_at": "2026-07-23T01:16:06.668068+00:00",
+  "text": "Had some spare token usage left before reset, so I had codex play my character on my MUD for me which is a built in full RPG into NightBeacon because we are so good at catching attackers, why not MUD with other analysts and customers during downtime... so I need to make sure I'm https://x.com/HackingDave/status/2080373555389202481/photo/1",
+  "raw_text": "Had some spare token usage left before reset, so I had codex play my character on my MUD for me which is a built in full RPG into NightBeacon because we are so good at catching attackers, why not MUD with other analysts and customers during downtime... so I need to make sure I'm https://t.co/ue5DdKBSss",
+  "created_at": "2026-07-23T19:24:41+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HN74meFWEAAISuP.jpg",
+      "alt_text": null
+    }
+  ],
+  "urls": [
+    {
+      "short": "https://t.co/ue5DdKBSss",
+      "expanded": "https://x.com/HackingDave/status/2080373555389202481/photo/1",
+      "display": "pic.x.com/ue5DdKBSss",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-07-23T19:30:03.957109+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Discusses AI-native log processing tool and agents for detection engineering in their NightBeacon product",
-    "tool_mentioned": "NightBeacon"
+    "reason": "User mentions using Codex (OpenAI's coding AI) to automate gameplay in their MUD game",
+    "tool_mentioned": "Codex"
   }
 }
