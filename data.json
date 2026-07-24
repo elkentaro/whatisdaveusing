@@ -1,25 +1,18 @@
 {
-  "tweet_id": "2080713148835746082",
-  "tweet_url": "https://twitter.com/hackingdave/status/2080713148835746082",
+  "tweet_id": "2080746639678185506",
+  "tweet_url": "https://twitter.com/hackingdave/status/2080746639678185506",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Opus 5 looks sick. https://twitter.com/claudeai/status/2080699495453528290",
-  "raw_text": "Opus 5 looks sick. https://t.co/qUxCqWE0Bq",
-  "created_at": "2026-07-24T17:54:07+00:00",
+  "text": "One big thing with NightBeacon is we have multiple classifiers models in the front that are fine tuned and heavily trained on virtually every technology, malicious and benign behavior. Which is continuously evolving and with OODA loops which tie in analysis into our main LLMs.",
+  "raw_text": "One big thing with NightBeacon is we have multiple classifiers models in the front that are fine tuned and heavily trained on virtually every technology, malicious and benign behavior. Which is continuously evolving and with OODA loops which tie in analysis into our main LLMs.",
+  "created_at": "2026-07-24T20:07:11+00:00",
   "media": [],
-  "urls": [
-    {
-      "short": "https://t.co/qUxCqWE0Bq",
-      "expanded": "https://twitter.com/claudeai/status/2080699495453528290",
-      "display": "x.com/claudeai/statu…",
-      "title": ""
-    }
-  ],
-  "updated_at": "2026-07-24T18:30:33.966073+00:00",
+  "urls": [],
+  "updated_at": "2026-07-24T20:30:42.285450+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Expresses excitement about Opus 5, which is Claude's most capable AI model from Anthropic",
-    "tool_mentioned": "Opus 5"
+    "reason": "Discusses using fine-tuned classifier models and LLMs as part of their NightBeacon security product's AI architecture",
+    "tool_mentioned": "LLMs"
   }
 }
