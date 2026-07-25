@@ -1,18 +1,18 @@
 {
-  "tweet_id": "2080746639678185506",
-  "tweet_url": "https://twitter.com/hackingdave/status/2080746639678185506",
+  "tweet_id": "2080811572650242050",
+  "tweet_url": "https://twitter.com/hackingdave/status/2080811572650242050",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "One big thing with NightBeacon is we have multiple classifiers models in the front that are fine tuned and heavily trained on virtually every technology, malicious and benign behavior. Which is continuously evolving and with OODA loops which tie in analysis into our main LLMs.",
-  "raw_text": "One big thing with NightBeacon is we have multiple classifiers models in the front that are fine tuned and heavily trained on virtually every technology, malicious and benign behavior. Which is continuously evolving and with OODA loops which tie in analysis into our main LLMs.",
-  "created_at": "2026-07-24T20:07:11+00:00",
+  "text": "Crazy thought. Why doesn't the U.S. make legit frontier level open models themselves? 🤔",
+  "raw_text": "Crazy thought. Why doesn't the U.S. make legit frontier level open models themselves? 🤔",
+  "created_at": "2026-07-25T00:25:13+00:00",
   "media": [],
   "urls": [],
-  "updated_at": "2026-07-24T20:30:42.285450+00:00",
+  "updated_at": "2026-07-25T00:30:47.157437+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Discusses using fine-tuned classifier models and LLMs as part of their NightBeacon security product's AI architecture",
-    "tool_mentioned": "LLMs"
+    "reason": "Discussion about US development of frontier AI models relates to LLMs and AI tools ecosystem",
+    "tool_mentioned": null
   }
 }
