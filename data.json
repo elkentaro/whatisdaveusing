@@ -1,18 +1,42 @@
 {
-  "tweet_id": "2081019715263049969",
-  "tweet_url": "https://twitter.com/hackingdave/status/2081019715263049969",
+  "tweet_id": "2081145316745634214",
+  "tweet_url": "https://twitter.com/hackingdave/status/2081145316745634214",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "The more use with Opus 5, it's really good. Like really really good.",
-  "raw_text": "The more use with Opus 5, it's really good. Like really really good.",
-  "created_at": "2026-07-25T14:12:18+00:00",
-  "media": [],
-  "urls": [],
-  "updated_at": "2026-07-25T14:31:03.945597+00:00",
+  "text": "Opus 5 is a bit of an asshole 😂 https://x.com/HackingDave/status/2081145316745634214/photo/1",
+  "raw_text": "Opus 5 is a bit of an asshole 😂 https://t.co/ka6bJxmgcU",
+  "created_at": "2026-07-25T22:31:23+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HOG2lTWXMAAdKjf.png",
+      "alt_text": null
+    },
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HOG2oi1WgAAIhjp.jpg",
+      "alt_text": null
+    }
+  ],
+  "urls": [
+    {
+      "short": "https://t.co/ka6bJxmgcU",
+      "expanded": "https://x.com/HackingDave/status/2081145316745634214/photo/1",
+      "display": "pic.x.com/ka6bJxmgcU",
+      "title": ""
+    },
+    {
+      "short": "https://t.co/ka6bJxmgcU",
+      "expanded": "https://x.com/HackingDave/status/2081145316745634214/photo/1",
+      "display": "pic.x.com/ka6bJxmgcU",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-07-25T23:31:13.098289+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is expressing strong positive sentiment about Claude Opus 5, an AI/LLM model",
-    "tool_mentioned": "Claude Opus 5"
+    "reason": "References Opus 5, which is Claude's Opus model from Anthropic, an AI/LLM tool",
+    "tool_mentioned": "Claude Opus"
   }
 }
