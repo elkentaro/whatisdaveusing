@@ -1,42 +1,31 @@
 {
-  "tweet_id": "2081145316745634214",
-  "tweet_url": "https://twitter.com/hackingdave/status/2081145316745634214",
+  "tweet_id": "2081830163352780835",
+  "tweet_url": "https://twitter.com/hackingdave/status/2081830163352780835",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Opus 5 is a bit of an asshole 😂 https://x.com/HackingDave/status/2081145316745634214/photo/1",
-  "raw_text": "Opus 5 is a bit of an asshole 😂 https://t.co/ka6bJxmgcU",
-  "created_at": "2026-07-25T22:31:23+00:00",
+  "text": "Gitlab down. https://x.com/HackingDave/status/2081830163352780835/photo/1",
+  "raw_text": "Gitlab down. https://t.co/ByIlUe8SKE",
+  "created_at": "2026-07-27T19:52:44+00:00",
   "media": [
     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HOG2lTWXMAAdKjf.png",
-      "alt_text": null
-    },
-    {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HOG2oi1WgAAIhjp.jpg",
+      "type": "animated_gif",
+      "url": "https://pbs.twimg.com/tweet_video_thumb/HOQlf-bXAAAgHp3.jpg",
       "alt_text": null
     }
   ],
   "urls": [
     {
-      "short": "https://t.co/ka6bJxmgcU",
-      "expanded": "https://x.com/HackingDave/status/2081145316745634214/photo/1",
-      "display": "pic.x.com/ka6bJxmgcU",
-      "title": ""
-    },
-    {
-      "short": "https://t.co/ka6bJxmgcU",
-      "expanded": "https://x.com/HackingDave/status/2081145316745634214/photo/1",
-      "display": "pic.x.com/ka6bJxmgcU",
+      "short": "https://t.co/ByIlUe8SKE",
+      "expanded": "https://x.com/HackingDave/status/2081830163352780835/photo/1",
+      "display": "pic.x.com/ByIlUe8SKE",
       "title": ""
     }
   ],
-  "updated_at": "2026-07-25T23:31:13.098289+00:00",
+  "updated_at": "2026-07-27T20:31:42.114616+00:00",
   "classification": {
     "relevant": true,
-    "reason": "References Opus 5, which is Claude's Opus model from Anthropic, an AI/LLM tool",
-    "tool_mentioned": "Claude Opus"
+    "reason": "Mentions GitLab, a popular developer tooling platform for version control and CI/CD",
+    "tool_mentioned": "GitLab"
   }
 }
