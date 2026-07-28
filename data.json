@@ -1,31 +1,31 @@
 {
-  "tweet_id": "2081830163352780835",
-  "tweet_url": "https://twitter.com/hackingdave/status/2081830163352780835",
+  "tweet_id": "2081919835785593029",
+  "tweet_url": "https://twitter.com/hackingdave/status/2081919835785593029",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Gitlab down. https://x.com/HackingDave/status/2081830163352780835/photo/1",
-  "raw_text": "Gitlab down. https://t.co/ByIlUe8SKE",
-  "created_at": "2026-07-27T19:52:44+00:00",
+  "text": "Codex is my brochoco https://x.com/HackingDave/status/2081919835785593029/photo/1",
+  "raw_text": "Codex is my brochoco https://t.co/5Yup8U67WP",
+  "created_at": "2026-07-28T01:49:03+00:00",
   "media": [
     {
-      "type": "animated_gif",
-      "url": "https://pbs.twimg.com/tweet_video_thumb/HOQlf-bXAAAgHp3.jpg",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HOR3Ab5WMAAq3dj.jpg",
       "alt_text": null
     }
   ],
   "urls": [
     {
-      "short": "https://t.co/ByIlUe8SKE",
-      "expanded": "https://x.com/HackingDave/status/2081830163352780835/photo/1",
-      "display": "pic.x.com/ByIlUe8SKE",
+      "short": "https://t.co/5Yup8U67WP",
+      "expanded": "https://x.com/HackingDave/status/2081919835785593029/photo/1",
+      "display": "pic.x.com/5Yup8U67WP",
       "title": ""
     }
   ],
-  "updated_at": "2026-07-27T20:31:42.114616+00:00",
+  "updated_at": "2026-07-28T02:31:54.719835+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Mentions GitLab, a popular developer tooling platform for version control and CI/CD",
-    "tool_mentioned": "GitLab"
+    "reason": "User expresses strong preference for Codex, an AI coding assistant",
+    "tool_mentioned": "Codex"
   }
 }
