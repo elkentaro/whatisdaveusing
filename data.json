@@ -1,31 +1,25 @@
 {
-  "tweet_id": "2081919835785593029",
-  "tweet_url": "https://twitter.com/hackingdave/status/2081919835785593029",
+  "tweet_id": "2082208968315670684",
+  "tweet_url": "https://twitter.com/hackingdave/status/2082208968315670684",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Codex is my brochoco https://x.com/HackingDave/status/2081919835785593029/photo/1",
-  "raw_text": "Codex is my brochoco https://t.co/5Yup8U67WP",
-  "created_at": "2026-07-28T01:49:03+00:00",
-  "media": [
-    {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HOR3Ab5WMAAq3dj.jpg",
-      "alt_text": null
-    }
-  ],
+  "text": "Good breakdown from Hugging Face and the OpenAI incident:\n\nhttps://huggingface.co/blog/agent-intrusion-technical-timeline",
+  "raw_text": "Good breakdown from Hugging Face and the OpenAI incident:\n\nhttps://t.co/0ma9JiEL7g",
+  "created_at": "2026-07-28T20:57:58+00:00",
+  "media": [],
   "urls": [
     {
-      "short": "https://t.co/5Yup8U67WP",
-      "expanded": "https://x.com/HackingDave/status/2081919835785593029/photo/1",
-      "display": "pic.x.com/5Yup8U67WP",
-      "title": ""
+      "short": "https://t.co/0ma9JiEL7g",
+      "expanded": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "display": "huggingface.co/blog/agent-int…",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident"
     }
   ],
-  "updated_at": "2026-07-28T02:31:54.719835+00:00",
+  "updated_at": "2026-07-28T21:32:21.289368+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User expresses strong preference for Codex, an AI coding assistant",
-    "tool_mentioned": "Codex"
+    "reason": "Tweet references OpenAI, a major AI/LLM company, discussing an incident related to their services.",
+    "tool_mentioned": "OpenAI"
   }
 }
