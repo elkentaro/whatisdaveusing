@@ -1,25 +1,42 @@
 {
-  "tweet_id": "2083014544201228657",
-  "tweet_url": "https://twitter.com/hackingdave/status/2083014544201228657",
+  "tweet_id": "2083011413321064622",
+  "tweet_url": "https://twitter.com/hackingdave/status/2083011413321064622",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "If you aren't using herdr for your agents, you are missing out big time. \n\nAbsolutely destroys tmux, and the integrations on your coding agents with worktrees is a huge level up. \n\nCheck it out here: https://herdr.dev/\n\nAlso, ensure to check out the quick start, watch the 6",
-  "raw_text": "If you aren't using herdr for your agents, you are missing out big time. \n\nAbsolutely destroys tmux, and the integrations on your coding agents with worktrees is a huge level up. \n\nCheck it out here: https://t.co/nO1Kf5AF7l\n\nAlso, ensure to check out the quick start, watch the 6",
-  "created_at": "2026-07-31T02:19:02+00:00",
-  "media": [],
-  "urls": [
+  "text": "This is after burning two max plans on each account... \n\nI've been busy. https://x.com/HackingDave/status/2083011413321064622/photo/1",
+  "raw_text": "This is after burning two max plans on each account... \n\nI've been busy. https://t.co/d4nHVmUJK4",
+  "created_at": "2026-07-31T02:06:36+00:00",
+  "media": [
     {
-      "short": "https://t.co/nO1Kf5AF7l",
-      "expanded": "https://herdr.dev/",
-      "display": "herdr.dev",
-      "title": "Herdr: one terminal for the whole herd"
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HOhXzKdXoAAA_tB.jpg",
+      "alt_text": null
+    },
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HOhXzKbXMAAYqQp.jpg",
+      "alt_text": null
     }
   ],
-  "updated_at": "2026-07-31T02:32:59.516832+00:00",
+  "urls": [
+    {
+      "short": "https://t.co/d4nHVmUJK4",
+      "expanded": "https://x.com/HackingDave/status/2083011413321064622/photo/1",
+      "display": "pic.x.com/d4nHVmUJK4",
+      "title": ""
+    },
+    {
+      "short": "https://t.co/d4nHVmUJK4",
+      "expanded": "https://x.com/HackingDave/status/2083011413321064622/photo/1",
+      "display": "pic.x.com/d4nHVmUJK4",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-07-31T02:33:05.270092+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Recommending herdr as a developer tool for managing coding agents, comparing it favorably to tmux",
-    "tool_mentioned": "herdr"
+    "reason": "User mentions burning through 'max plans' on multiple accounts, likely referring to AI coding assistant subscription tiers (such as Cursor or similar tools)",
+    "tool_mentioned": "null"
   }
 }
