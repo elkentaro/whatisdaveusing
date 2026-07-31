@@ -1,25 +1,25 @@
 {
-  "tweet_id": "2082208968315670684",
-  "tweet_url": "https://twitter.com/hackingdave/status/2082208968315670684",
+  "tweet_id": "2083014544201228657",
+  "tweet_url": "https://twitter.com/hackingdave/status/2083014544201228657",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Good breakdown from Hugging Face and the OpenAI incident:\n\nhttps://huggingface.co/blog/agent-intrusion-technical-timeline",
-  "raw_text": "Good breakdown from Hugging Face and the OpenAI incident:\n\nhttps://t.co/0ma9JiEL7g",
-  "created_at": "2026-07-28T20:57:58+00:00",
+  "text": "If you aren't using herdr for your agents, you are missing out big time. \n\nAbsolutely destroys tmux, and the integrations on your coding agents with worktrees is a huge level up. \n\nCheck it out here: https://herdr.dev/\n\nAlso, ensure to check out the quick start, watch the 6",
+  "raw_text": "If you aren't using herdr for your agents, you are missing out big time. \n\nAbsolutely destroys tmux, and the integrations on your coding agents with worktrees is a huge level up. \n\nCheck it out here: https://t.co/nO1Kf5AF7l\n\nAlso, ensure to check out the quick start, watch the 6",
+  "created_at": "2026-07-31T02:19:02+00:00",
   "media": [],
   "urls": [
     {
-      "short": "https://t.co/0ma9JiEL7g",
-      "expanded": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "display": "huggingface.co/blog/agent-int…",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident"
+      "short": "https://t.co/nO1Kf5AF7l",
+      "expanded": "https://herdr.dev/",
+      "display": "herdr.dev",
+      "title": "Herdr: one terminal for the whole herd"
     }
   ],
-  "updated_at": "2026-07-28T21:32:21.289368+00:00",
+  "updated_at": "2026-07-31T02:32:59.516832+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Tweet references OpenAI, a major AI/LLM company, discussing an incident related to their services.",
-    "tool_mentioned": "OpenAI"
+    "reason": "Recommending herdr as a developer tool for managing coding agents, comparing it favorably to tmux",
+    "tool_mentioned": "herdr"
   }
 }
