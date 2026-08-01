@@ -1,25 +1,31 @@
 {
-  "tweet_id": "2083377720361140544",
-  "tweet_url": "https://twitter.com/hackingdave/status/2083377720361140544",
+  "tweet_id": "2083387551981666748",
+  "tweet_url": "https://twitter.com/hackingdave/status/2083387551981666748",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Completely agree with @ClementDelangue here and this statement:\n\n\"Banning any open model would hurt first cyber security defenders, startups, small companies, researchers and everyone who's not a frontier lab and need on-prem affordable controllable models to compete and protect https://twitter.com/ClementDelangue/status/2083204212180017522",
-  "raw_text": "Completely agree with @ClementDelangue here and this statement:\n\n\"Banning any open model would hurt first cyber security defenders, startups, small companies, researchers and everyone who's not a frontier lab and need on-prem affordable controllable models to compete and protect https://t.co/MnxM1N4Ph0",
-  "created_at": "2026-08-01T02:22:10+00:00",
-  "media": [],
+  "text": "One cool thing about NightBeacon is I have agents called Scout Forge that look at every submission, if it is a new technology or low confidence - it will automatically generate a new parser for better normalization in the future, but most importantly, generate training data to https://x.com/HackingDave/status/2083387551981666748/photo/1",
+  "raw_text": "One cool thing about NightBeacon is I have agents called Scout Forge that look at every submission, if it is a new technology or low confidence - it will automatically generate a new parser for better normalization in the future, but most importantly, generate training data to https://t.co/xt6fvqSeht",
+  "created_at": "2026-08-01T03:01:14+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HOmtyMNXkAAsekS.jpg",
+      "alt_text": null
+    }
+  ],
   "urls": [
     {
-      "short": "https://t.co/MnxM1N4Ph0",
-      "expanded": "https://twitter.com/ClementDelangue/status/2083204212180017522",
-      "display": "x.com/ClementDelangu…",
+      "short": "https://t.co/xt6fvqSeht",
+      "expanded": "https://x.com/HackingDave/status/2083387551981666748/photo/1",
+      "display": "pic.x.com/xt6fvqSeht",
       "title": ""
     }
   ],
-  "updated_at": "2026-08-01T02:33:22.644729+00:00",
+  "updated_at": "2026-08-01T03:33:28.063381+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Discussion about open AI models and their importance for startups, researchers, and cybersecurity applications",
-    "tool_mentioned": null
+    "reason": "Discusses AI agents and automated parser generation for technology processing",
+    "tool_mentioned": "NightBeacon"
   }
 }
