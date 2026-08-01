@@ -1,31 +1,18 @@
 {
-  "tweet_id": "2083387551981666748",
-  "tweet_url": "https://twitter.com/hackingdave/status/2083387551981666748",
+  "tweet_id": "2083596254097838264",
+  "tweet_url": "https://twitter.com/hackingdave/status/2083596254097838264",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "One cool thing about NightBeacon is I have agents called Scout Forge that look at every submission, if it is a new technology or low confidence - it will automatically generate a new parser for better normalization in the future, but most importantly, generate training data to https://x.com/HackingDave/status/2083387551981666748/photo/1",
-  "raw_text": "One cool thing about NightBeacon is I have agents called Scout Forge that look at every submission, if it is a new technology or low confidence - it will automatically generate a new parser for better normalization in the future, but most importantly, generate training data to https://t.co/xt6fvqSeht",
-  "created_at": "2026-08-01T03:01:14+00:00",
-  "media": [
-    {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HOmtyMNXkAAsekS.jpg",
-      "alt_text": null
-    }
-  ],
-  "urls": [
-    {
-      "short": "https://t.co/xt6fvqSeht",
-      "expanded": "https://x.com/HackingDave/status/2083387551981666748/photo/1",
-      "display": "pic.x.com/xt6fvqSeht",
-      "title": ""
-    }
-  ],
-  "updated_at": "2026-08-01T03:33:28.063381+00:00",
+  "text": "I do have 20 agents running while I’m out here with full control via mobile jic",
+  "raw_text": "I do have 20 agents running while I’m out here with full control via mobile jic",
+  "created_at": "2026-08-01T16:50:32+00:00",
+  "media": [],
+  "urls": [],
+  "updated_at": "2026-08-01T17:33:44.891496+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Discusses AI agents and automated parser generation for technology processing",
-    "tool_mentioned": "NightBeacon"
+    "reason": "User mentions running AI agents with mobile control, indicating use of AI/automation tooling",
+    "tool_mentioned": null
   }
 }
