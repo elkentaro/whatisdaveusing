@@ -1,31 +1,18 @@
 {
-  "tweet_id": "2084043027526385774",
-  "tweet_url": "https://twitter.com/hackingdave/status/2084043027526385774",
+  "tweet_id": "2084040919565689009",
+  "tweet_url": "https://twitter.com/hackingdave/status/2084040919565689009",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "It's happening, current benchmarks on my 8xh100s is 33x faster than qwen/glm. \n\nInsane. https://x.com/HackingDave/status/2084043027526385774/photo/1",
-  "raw_text": "It's happening, current benchmarks on my 8xh100s is 33x faster than qwen/glm. \n\nInsane. https://t.co/Zi5kkoiMmK",
-  "created_at": "2026-08-02T22:25:52+00:00",
-  "media": [
-    {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HOwCFeoXsAAzxiF.jpg",
-      "alt_text": null
-    }
-  ],
-  "urls": [
-    {
-      "short": "https://t.co/Zi5kkoiMmK",
-      "expanded": "https://x.com/HackingDave/status/2084043027526385774/photo/1",
-      "display": "pic.x.com/Zi5kkoiMmK",
-      "title": ""
-    }
-  ],
-  "updated_at": "2026-08-02T22:34:14.181297+00:00",
+  "text": "Best part, if the evidence doesn't exist, it will tell you what to do next to validate. It won't over-correct to be right or wrong.",
+  "raw_text": "Best part, if the evidence doesn't exist, it will tell you what to do next to validate. It won't over-correct to be right or wrong.",
+  "created_at": "2026-08-02T22:17:29+00:00",
+  "media": [],
+  "urls": [],
+  "updated_at": "2026-08-02T22:34:17.707075+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is sharing benchmark results comparing AI model performance on their GPU hardware setup",
-    "tool_mentioned": "Qwen/GLM"
+    "reason": "Describes behavior of an AI assistant that validates evidence and guides next steps rather than overcorrecting",
+    "tool_mentioned": null
   }
 }
