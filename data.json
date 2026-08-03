@@ -1,18 +1,18 @@
 {
-  "tweet_id": "2084040919565689009",
-  "tweet_url": "https://twitter.com/hackingdave/status/2084040919565689009",
+  "tweet_id": "2084074406150549758",
+  "tweet_url": "https://twitter.com/hackingdave/status/2084074406150549758",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Best part, if the evidence doesn't exist, it will tell you what to do next to validate. It won't over-correct to be right or wrong.",
-  "raw_text": "Best part, if the evidence doesn't exist, it will tell you what to do next to validate. It won't over-correct to be right or wrong.",
-  "created_at": "2026-08-02T22:17:29+00:00",
+  "text": "I think transformational what AI does is allow us to validate if something is good or bad in the SOC. Even if you wrote the best detection rule ever - you still had a ton of work to do in order to identify if it’s legitimately a threat or a false positive.\n\nWith agentic workflow",
+  "raw_text": "I think transformational what AI does is allow us to validate if something is good or bad in the SOC. Even if you wrote the best detection rule ever - you still had a ton of work to do in order to identify if it’s legitimately a threat or a false positive.\n\nWith agentic workflow",
+  "created_at": "2026-08-03T00:30:33+00:00",
   "media": [],
   "urls": [],
-  "updated_at": "2026-08-02T22:34:17.707075+00:00",
+  "updated_at": "2026-08-03T00:34:28.578513+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Describes behavior of an AI assistant that validates evidence and guides next steps rather than overcorrecting",
+    "reason": "Discusses agentic AI workflows for security operations center automation and threat detection validation",
     "tool_mentioned": null
   }
 }
