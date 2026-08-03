@@ -1,18 +1,18 @@
 {
-  "tweet_id": "2084074406150549758",
-  "tweet_url": "https://twitter.com/hackingdave/status/2084074406150549758",
+  "tweet_id": "2084086542071406624",
+  "tweet_url": "https://twitter.com/hackingdave/status/2084086542071406624",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "I think transformational what AI does is allow us to validate if something is good or bad in the SOC. Even if you wrote the best detection rule ever - you still had a ton of work to do in order to identify if it’s legitimately a threat or a false positive.\n\nWith agentic workflow",
-  "raw_text": "I think transformational what AI does is allow us to validate if something is good or bad in the SOC. Even if you wrote the best detection rule ever - you still had a ton of work to do in order to identify if it’s legitimately a threat or a false positive.\n\nWith agentic workflow",
-  "created_at": "2026-08-03T00:30:33+00:00",
+  "text": "Using deepseek v4 flash right now honestly feels near parity to a frontier model at the moment. Still doing benchmarking but its lightning fast, has done some great work code comparison. We're finally hitting levels only frontier models could hit.",
+  "raw_text": "Using deepseek v4 flash right now honestly feels near parity to a frontier model at the moment. Still doing benchmarking but its lightning fast, has done some great work code comparison. We're finally hitting levels only frontier models could hit.",
+  "created_at": "2026-08-03T01:18:46+00:00",
   "media": [],
   "urls": [],
-  "updated_at": "2026-08-03T00:34:28.578513+00:00",
+  "updated_at": "2026-08-03T01:34:34.135387+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Discusses agentic AI workflows for security operations center automation and threat detection validation",
-    "tool_mentioned": null
+    "reason": "User is evaluating DeepSeek V4 Flash AI model for coding tasks and comparing it to frontier models",
+    "tool_mentioned": "DeepSeek V4 Flash"
   }
 }
