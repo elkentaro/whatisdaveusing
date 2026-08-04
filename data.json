@@ -1,42 +1,18 @@
 {
-  "tweet_id": "2084367299104882779",
-  "tweet_url": "https://twitter.com/hackingdave/status/2084367299104882779",
+  "tweet_id": "2084623392389358055",
+  "tweet_url": "https://twitter.com/hackingdave/status/2084623392389358055",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "We've been busy. We're happen to announce the launch of NightBeacon Stealth. \n\nA full agentic AIDR down to the endpoints with automatic AI deception capabilities, defensive countermeasures, and autonomous workflow. \n\nNightBeacon Stealth can work as a standalone solution or https://x.com/HackingDave/status/2084367299104882779/photo/1",
-  "raw_text": "We've been busy. We're happen to announce the launch of NightBeacon Stealth. \n\nA full agentic AIDR down to the endpoints with automatic AI deception capabilities, defensive countermeasures, and autonomous workflow. \n\nNightBeacon Stealth can work as a standalone solution or https://t.co/UI9DDZk5bA",
-  "created_at": "2026-08-03T19:54:24+00:00",
-  "media": [
-    {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HO0o8z-WUAAtYkB.jpg",
-      "alt_text": null
-    },
-    {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HO0o9I5XAAA-vVT.jpg",
-      "alt_text": null
-    }
-  ],
-  "urls": [
-    {
-      "short": "https://t.co/UI9DDZk5bA",
-      "expanded": "https://x.com/HackingDave/status/2084367299104882779/photo/1",
-      "display": "pic.x.com/UI9DDZk5bA",
-      "title": ""
-    },
-    {
-      "short": "https://t.co/UI9DDZk5bA",
-      "expanded": "https://x.com/HackingDave/status/2084367299104882779/photo/1",
-      "display": "pic.x.com/UI9DDZk5bA",
-      "title": ""
-    }
-  ],
-  "updated_at": "2026-08-03T20:34:46.933934+00:00",
+  "text": "One of the best things I do for testing before any MR for NightBeacon is I run everything through a local docker container. Validates every change, ensures no regressions, automatically runs. Claude/Codex runs through all tests with the latest codebase prior to ever going to a",
+  "raw_text": "One of the best things I do for testing before any MR for NightBeacon is I run everything through a local docker container. Validates every change, ensures no regressions, automatically runs. Claude/Codex runs through all tests with the latest codebase prior to ever going to a",
+  "created_at": "2026-08-04T12:52:01+00:00",
+  "media": [],
+  "urls": [],
+  "updated_at": "2026-08-04T13:35:23.971884+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Announcement of an AI-powered security/detection tool with agentic capabilities and autonomous workflow features.",
-    "tool_mentioned": "NightBeacon Stealth"
+    "reason": "User discusses using Claude/Codex AI coding assistants as part of their testing workflow with Docker containers",
+    "tool_mentioned": "Claude/Codex"
   }
 }
