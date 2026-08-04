@@ -1,18 +1,18 @@
 {
-  "tweet_id": "2084623392389358055",
-  "tweet_url": "https://twitter.com/hackingdave/status/2084623392389358055",
+  "tweet_id": "2084655368458649666",
+  "tweet_url": "https://twitter.com/hackingdave/status/2084655368458649666",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "One of the best things I do for testing before any MR for NightBeacon is I run everything through a local docker container. Validates every change, ensures no regressions, automatically runs. Claude/Codex runs through all tests with the latest codebase prior to ever going to a",
-  "raw_text": "One of the best things I do for testing before any MR for NightBeacon is I run everything through a local docker container. Validates every change, ensures no regressions, automatically runs. Claude/Codex runs through all tests with the latest codebase prior to ever going to a",
-  "created_at": "2026-08-04T12:52:01+00:00",
+  "text": "Another tip, we recently cut over to Luna in our gitops pipeline. We use flux for hourly builds for dev/staging/prods. We tied in OpenAI Luna models, that will perform bug and security sweeps and automatically fix the issues prior to release candidates being promoted to",
+  "raw_text": "Another tip, we recently cut over to Luna in our gitops pipeline. We use flux for hourly builds for dev/staging/prods. We tied in OpenAI Luna models, that will perform bug and security sweeps and automatically fix the issues prior to release candidates being promoted to",
+  "created_at": "2026-08-04T14:59:05+00:00",
   "media": [],
   "urls": [],
-  "updated_at": "2026-08-04T13:35:23.971884+00:00",
+  "updated_at": "2026-08-04T15:35:34.514526+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User discusses using Claude/Codex AI coding assistants as part of their testing workflow with Docker containers",
-    "tool_mentioned": "Claude/Codex"
+    "reason": "Discusses integrating OpenAI Luna models into their GitOps pipeline for automated bug and security fixes",
+    "tool_mentioned": "OpenAI Luna"
   }
 }
