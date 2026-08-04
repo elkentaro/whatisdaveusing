@@ -1,18 +1,18 @@
 {
-  "tweet_id": "2084655368458649666",
-  "tweet_url": "https://twitter.com/hackingdave/status/2084655368458649666",
+  "tweet_id": "2084689649088540958",
+  "tweet_url": "https://twitter.com/hackingdave/status/2084689649088540958",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Another tip, we recently cut over to Luna in our gitops pipeline. We use flux for hourly builds for dev/staging/prods. We tied in OpenAI Luna models, that will perform bug and security sweeps and automatically fix the issues prior to release candidates being promoted to",
-  "raw_text": "Another tip, we recently cut over to Luna in our gitops pipeline. We use flux for hourly builds for dev/staging/prods. We tied in OpenAI Luna models, that will perform bug and security sweeps and automatically fix the issues prior to release candidates being promoted to",
-  "created_at": "2026-08-04T14:59:05+00:00",
+  "text": "No plugs for my computer in my seat, dude next to me is super cool, going to the AI conference in Vegas. Lent me his battery pack so I can keep cracking away with agents. \n\nAwesome to get to meet nice folks, sharing stories. Dudes super smart and on the ML/AI side just in a",
+  "raw_text": "No plugs for my computer in my seat, dude next to me is super cool, going to the AI conference in Vegas. Lent me his battery pack so I can keep cracking away with agents. \n\nAwesome to get to meet nice folks, sharing stories. Dudes super smart and on the ML/AI side just in a",
+  "created_at": "2026-08-04T17:15:18+00:00",
   "media": [],
   "urls": [],
-  "updated_at": "2026-08-04T15:35:34.514526+00:00",
+  "updated_at": "2026-08-04T17:35:45.192616+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Discusses integrating OpenAI Luna models into their GitOps pipeline for automated bug and security fixes",
-    "tool_mentioned": "OpenAI Luna"
+    "reason": "Mentions working with AI agents and attending an AI conference, indicating active use of AI tools",
+    "tool_mentioned": "agents"
   }
 }
