@@ -1,31 +1,18 @@
 {
-  "tweet_id": "2084699441269973126",
-  "tweet_url": "https://twitter.com/hackingdave/status/2084699441269973126",
+  "tweet_id": "2084863654332354780",
+  "tweet_url": "https://twitter.com/hackingdave/status/2084863654332354780",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "In a tight seat on a United flight Vegas bound. 8 agents running... maximizing my time on this plane ride 😂 https://x.com/HackingDave/status/2084699441269973126/photo/1",
-  "raw_text": "In a tight seat on a United flight Vegas bound. 8 agents running... maximizing my time on this plane ride 😂 https://t.co/T84k3LjBCH",
-  "created_at": "2026-08-04T17:54:13+00:00",
-  "media": [
-    {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HO5XEfgXsAAi_Np.jpg",
-      "alt_text": null
-    }
-  ],
-  "urls": [
-    {
-      "short": "https://t.co/T84k3LjBCH",
-      "expanded": "https://x.com/HackingDave/status/2084699441269973126/photo/1",
-      "display": "pic.x.com/T84k3LjBCH",
-      "title": ""
-    }
-  ],
-  "updated_at": "2026-08-04T18:35:50.673722+00:00",
+  "text": "Anyone talking about AI right now is using frontier models to offload their actions with a wrapper. \n\nFrontier models are amazing generalists, however fine tuned and custom built models focused on what they should be experts in is the way. \n\nWe use zero frontier models and out",
+  "raw_text": "Anyone talking about AI right now is using frontier models to offload their actions with a wrapper. \n\nFrontier models are amazing generalists, however fine tuned and custom built models focused on what they should be experts in is the way. \n\nWe use zero frontier models and out",
+  "created_at": "2026-08-05T04:46:44+00:00",
+  "media": [],
+  "urls": [],
+  "updated_at": "2026-08-05T05:36:13.628107+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User mentions running 8 AI agents, likely referring to AI coding or automation tools",
-    "tool_mentioned": "AI agents"
+    "reason": "Discusses AI model strategy and implies using custom/fine-tuned models instead of frontier models like GPT-4 or Claude",
+    "tool_mentioned": null
   }
 }
