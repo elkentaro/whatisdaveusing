@@ -1,31 +1,31 @@
 {
-  "tweet_id": "2085033307017015569",
-  "tweet_url": "https://twitter.com/hackingdave/status/2085033307017015569",
+  "tweet_id": "2085044544421482655",
+  "tweet_url": "https://twitter.com/hackingdave/status/2085044544421482655",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Swing by booth #6017 today for #BinaryDefense. I'll be there with my team. \n\nCome check out the amazing stuff we've been doing with AI with NightBeacon CMD and our newly released Stealth agent. Truly transformational. \n\nNot vaporware, we use it everyday.\n\nSo excited about this https://x.com/HackingDave/status/2085033307017015569/video/1",
-  "raw_text": "Swing by booth #6017 today for #BinaryDefense. I'll be there with my team. \n\nCome check out the amazing stuff we've been doing with AI with NightBeacon CMD and our newly released Stealth agent. Truly transformational. \n\nNot vaporware, we use it everyday.\n\nSo excited about this https://t.co/P0rfknG6II",
-  "created_at": "2026-08-05T16:00:53+00:00",
+  "text": "We have gitlab runners that sweep every merge request with Luna, have access to grafana/loki backend for bug verification, smoke testing, full end to end to remove defects before they get into staging. \n\nNaming all the bots off hackers, Acid Burn is the elite bug / security https://x.com/HackingDave/status/2085044544421482655/photo/1",
+  "raw_text": "We have gitlab runners that sweep every merge request with Luna, have access to grafana/loki backend for bug verification, smoke testing, full end to end to remove defects before they get into staging. \n\nNaming all the bots off hackers, Acid Burn is the elite bug / security https://t.co/2kWRPjtcv7",
+  "created_at": "2026-08-05T16:45:32+00:00",
   "media": [
     {
-      "type": "video",
-      "url": "https://pbs.twimg.com/amplify_video_thumb/2085033237228015616/img/4ZYRdUpoyRzqEPpb.jpg",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HO-Q6S3bEAQ-XUl.jpg",
       "alt_text": null
     }
   ],
   "urls": [
     {
-      "short": "https://t.co/P0rfknG6II",
-      "expanded": "https://x.com/HackingDave/status/2085033307017015569/video/1",
-      "display": "pic.x.com/P0rfknG6II",
+      "short": "https://t.co/2kWRPjtcv7",
+      "expanded": "https://x.com/HackingDave/status/2085044544421482655/photo/1",
+      "display": "pic.x.com/2kWRPjtcv7",
       "title": ""
     }
   ],
-  "updated_at": "2026-08-05T16:36:30.740104+00:00",
+  "updated_at": "2026-08-05T17:36:37.569177+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Mentions using AI tools daily in their security product development workflow",
-    "tool_mentioned": "NightBeacon CMD"
+    "reason": "Discusses developer tooling setup including GitLab runners, Luna for code review, Grafana/Loki for monitoring, and automated testing bots in their CI/CD pipeline",
+    "tool_mentioned": "GitLab"
   }
 }
