@@ -1,18 +1,18 @@
 {
-  "tweet_id": "2089425099380183226",
-  "tweet_url": "https://twitter.com/hackingdave/status/2089425099380183226",
+  "tweet_id": "2089523555872522733",
+  "tweet_url": "https://twitter.com/hackingdave/status/2089523555872522733",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "I'm still mind blown that we got this working a 100%. We have this enrich functionality that will go out and hunt for any missing evidence in an alarm/situation/incident - takes about 80 seconds - comes back, rewrites the entire narrative with supported evidence, rewrites",
-  "raw_text": "I'm still mind blown that we got this working a 100%. We have this enrich functionality that will go out and hunt for any missing evidence in an alarm/situation/incident - takes about 80 seconds - comes back, rewrites the entire narrative with supported evidence, rewrites",
-  "created_at": "2026-08-17T18:52:17+00:00",
+  "text": "About three years ago I spent a couple hours a week teaching my kids fundamentals of networking, protocols, coding, etc. The past year, I've been doing a few hours a week on AI and showing them how to codex codex, claude, their own projects and they have to report back the next",
+  "raw_text": "About three years ago I spent a couple hours a week teaching my kids fundamentals of networking, protocols, coding, etc. The past year, I've been doing a few hours a week on AI and showing them how to codex codex, claude, their own projects and they have to report back the next",
+  "created_at": "2026-08-18T01:23:31+00:00",
   "media": [],
   "urls": [],
-  "updated_at": "2026-08-17T19:10:10.215266+00:00",
+  "updated_at": "2026-08-18T02:10:19.224352+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Describes an AI-powered enrichment and narrative rewriting feature in what appears to be a security or incident management tool",
-    "tool_mentioned": null
+    "reason": "User discusses teaching kids to use AI coding tools like Codex and Claude for their projects",
+    "tool_mentioned": "Codex, Claude"
   }
 }
