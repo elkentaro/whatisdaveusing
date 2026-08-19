@@ -1,25 +1,31 @@
 {
-  "tweet_id": "2089873069649051874",
-  "tweet_url": "https://twitter.com/hackingdave/status/2089873069649051874",
+  "tweet_id": "2089884873422975280",
+  "tweet_url": "https://twitter.com/hackingdave/status/2089884873422975280",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Truth - when using Opus five I had to build some md files to correct the response actions. Very chatty, also will create issues without tackling them, had to fix them as well. It does good work but definitely a regression from previous models on some areas imo. Sol has been rock https://twitter.com/hiarun02/status/2089752149769289758",
-  "raw_text": "Truth - when using Opus five I had to build some md files to correct the response actions. Very chatty, also will create issues without tackling them, had to fix them as well. It does good work but definitely a regression from previous models on some areas imo. Sol has been rock https://t.co/e95JmbV6qR",
-  "created_at": "2026-08-19T00:32:22+00:00",
-  "media": [],
+  "text": "NightBeacon records all custom KQL/CQL/etc queries, with summary of findings for each missing evidence element. Lets analysts dive deep into whats happening with full transparency. In this example here of KQL with Sentinel - took 13 seconds to dynamically write this query and https://x.com/HackingDave/status/2089884873422975280/photo/1",
+  "raw_text": "NightBeacon records all custom KQL/CQL/etc queries, with summary of findings for each missing evidence element. Lets analysts dive deep into whats happening with full transparency. In this example here of KQL with Sentinel - took 13 seconds to dynamically write this query and https://t.co/xYsJ6H9oJl",
+  "created_at": "2026-08-19T01:19:16+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HQDDJSDWkAAVFoE.png",
+      "alt_text": null
+    }
+  ],
   "urls": [
     {
-      "short": "https://t.co/e95JmbV6qR",
-      "expanded": "https://twitter.com/hiarun02/status/2089752149769289758",
-      "display": "x.com/hiarun02/statu…",
+      "short": "https://t.co/xYsJ6H9oJl",
+      "expanded": "https://x.com/HackingDave/status/2089884873422975280/photo/1",
+      "display": "pic.x.com/xYsJ6H9oJl",
       "title": ""
     }
   ],
-  "updated_at": "2026-08-19T01:10:46.141816+00:00",
+  "updated_at": "2026-08-19T02:10:52.048897+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User compares AI coding models (Opus 5 vs Sol), discussing workflow issues and regressions in AI assistant behavior",
-    "tool_mentioned": "Opus 5, Sol"
+    "reason": "Discusses NightBeacon, an AI-powered security analysis tool that dynamically writes KQL queries for analysts",
+    "tool_mentioned": "NightBeacon"
   }
 }
