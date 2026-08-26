@@ -1,25 +1,18 @@
 {
-  "tweet_id": "2092679331067707450",
-  "tweet_url": "https://twitter.com/hackingdave/status/2092679331067707450",
+  "tweet_id": "2092677957361836344",
+  "tweet_url": "https://twitter.com/hackingdave/status/2092677957361836344",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Hey my first bug submission for Herdr.. Minor one but was annoying :P\n\nhttps://github.com/herdrdev/herdr/issues/3273",
-  "raw_text": "Hey my first bug submission for Herdr.. Minor one but was annoying :P\n\nhttps://t.co/ZqRYAqRBLV",
-  "created_at": "2026-08-26T18:23:27+00:00",
+  "text": "Both Codex and Claude have been hardcore sucking this week. Not completing tasks, going off in tirades, def regression imo - entire dev team noticing too. Guessing release of their latest models is imminent.",
+  "raw_text": "Both Codex and Claude have been hardcore sucking this week. Not completing tasks, going off in tirades, def regression imo - entire dev team noticing too. Guessing release of their latest models is imminent.",
+  "created_at": "2026-08-26T18:17:59+00:00",
   "media": [],
-  "urls": [
-    {
-      "short": "https://t.co/ZqRYAqRBLV",
-      "expanded": "https://github.com/herdrdev/herdr/issues/3273",
-      "display": "github.com/herdrdev/herdr…",
-      "title": "Grok CLI started as `agent` never appears in the Agents panel · Issue #3273 · herdrdev/herdr"
-    }
-  ],
-  "updated_at": "2026-08-26T19:12:48.371237+00:00",
+  "urls": [],
+  "updated_at": "2026-08-26T19:12:52.826046+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is sharing their experience with Herdr, a developer/workflow tool, by submitting a bug report",
-    "tool_mentioned": "Herdr"
+    "reason": "User discusses performance regression in AI coding assistants Codex and Claude, indicating active usage and evaluation of these tools",
+    "tool_mentioned": "Codex, Claude"
   }
 }
