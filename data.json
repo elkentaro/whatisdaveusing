@@ -1,31 +1,25 @@
 {
-  "tweet_id": "2089884873422975280",
-  "tweet_url": "https://twitter.com/hackingdave/status/2089884873422975280",
+  "tweet_id": "2092679331067707450",
+  "tweet_url": "https://twitter.com/hackingdave/status/2092679331067707450",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "NightBeacon records all custom KQL/CQL/etc queries, with summary of findings for each missing evidence element. Lets analysts dive deep into whats happening with full transparency. In this example here of KQL with Sentinel - took 13 seconds to dynamically write this query and https://x.com/HackingDave/status/2089884873422975280/photo/1",
-  "raw_text": "NightBeacon records all custom KQL/CQL/etc queries, with summary of findings for each missing evidence element. Lets analysts dive deep into whats happening with full transparency. In this example here of KQL with Sentinel - took 13 seconds to dynamically write this query and https://t.co/xYsJ6H9oJl",
-  "created_at": "2026-08-19T01:19:16+00:00",
-  "media": [
-    {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HQDDJSDWkAAVFoE.png",
-      "alt_text": null
-    }
-  ],
+  "text": "Hey my first bug submission for Herdr.. Minor one but was annoying :P\n\nhttps://github.com/herdrdev/herdr/issues/3273",
+  "raw_text": "Hey my first bug submission for Herdr.. Minor one but was annoying :P\n\nhttps://t.co/ZqRYAqRBLV",
+  "created_at": "2026-08-26T18:23:27+00:00",
+  "media": [],
   "urls": [
     {
-      "short": "https://t.co/xYsJ6H9oJl",
-      "expanded": "https://x.com/HackingDave/status/2089884873422975280/photo/1",
-      "display": "pic.x.com/xYsJ6H9oJl",
-      "title": ""
+      "short": "https://t.co/ZqRYAqRBLV",
+      "expanded": "https://github.com/herdrdev/herdr/issues/3273",
+      "display": "github.com/herdrdev/herdr…",
+      "title": "Grok CLI started as `agent` never appears in the Agents panel · Issue #3273 · herdrdev/herdr"
     }
   ],
-  "updated_at": "2026-08-19T02:10:52.048897+00:00",
+  "updated_at": "2026-08-26T19:12:48.371237+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Discusses NightBeacon, an AI-powered security analysis tool that dynamically writes KQL queries for analysts",
-    "tool_mentioned": "NightBeacon"
+    "reason": "User is sharing their experience with Herdr, a developer/workflow tool, by submitting a bug report",
+    "tool_mentioned": "Herdr"
   }
 }
