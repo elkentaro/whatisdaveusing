@@ -1,18 +1,31 @@
 {
-  "tweet_id": "2092677957361836344",
-  "tweet_url": "https://twitter.com/hackingdave/status/2092677957361836344",
+  "tweet_id": "2093362944054559126",
+  "tweet_url": "https://twitter.com/hackingdave/status/2093362944054559126",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Both Codex and Claude have been hardcore sucking this week. Not completing tasks, going off in tirades, def regression imo - entire dev team noticing too. Guessing release of their latest models is imminent.",
-  "raw_text": "Both Codex and Claude have been hardcore sucking this week. Not completing tasks, going off in tirades, def regression imo - entire dev team noticing too. Guessing release of their latest models is imminent.",
-  "created_at": "2026-08-26T18:17:59+00:00",
-  "media": [],
-  "urls": [],
-  "updated_at": "2026-08-26T19:12:52.826046+00:00",
+  "text": "NightBeacon CMD - automatically correlates alarms into one situation so 100 alarms = 1 situation - automatically fills in missing evidence and gaps, provides full analysis, timelines, response actions, to close within minutes. Incredible stuff we're doing #BinaryDefense. https://x.com/HackingDave/status/2093362944054559126/photo/1",
+  "raw_text": "NightBeacon CMD - automatically correlates alarms into one situation so 100 alarms = 1 situation - automatically fills in missing evidence and gaps, provides full analysis, timelines, response actions, to close within minutes. Incredible stuff we're doing #BinaryDefense. https://t.co/yBmQECxI1X",
+  "created_at": "2026-08-28T15:39:53+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HQ0eblzXwAAmS-Z.jpg",
+      "alt_text": null
+    }
+  ],
+  "urls": [
+    {
+      "short": "https://t.co/yBmQECxI1X",
+      "expanded": "https://x.com/HackingDave/status/2093362944054559126/photo/1",
+      "display": "pic.x.com/yBmQECxI1X",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-08-28T16:13:16.420749+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User discusses performance regression in AI coding assistants Codex and Claude, indicating active usage and evaluation of these tools",
-    "tool_mentioned": "Codex, Claude"
+    "reason": "Describes an AI-powered security operations tool that automates alarm correlation and incident analysis",
+    "tool_mentioned": "NightBeacon CMD"
   }
 }
