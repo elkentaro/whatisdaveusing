@@ -1,18 +1,31 @@
 {
-  "tweet_id": "2094813670488359155",
-  "tweet_url": "https://twitter.com/hackingdave/status/2094813670488359155",
+  "tweet_id": "2094851755662094791",
+  "tweet_url": "https://twitter.com/hackingdave/status/2094851755662094791",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "The biggest thing I'm seeing from most of these AI-security companies, especially on the defense is that they do not want to innovate. They just grab log data and jam it into GPT or Anthropic and give summaries. \n\nThis is so much a year or two ago on thinking. Very little (if",
-  "raw_text": "The biggest thing I'm seeing from most of these AI-security companies, especially on the defense is that they do not want to innovate. They just grab log data and jam it into GPT or Anthropic and give summaries. \n\nThis is so much a year or two ago on thinking. Very little (if",
-  "created_at": "2026-09-01T15:44:33+00:00",
-  "media": [],
-  "urls": [],
-  "updated_at": "2026-09-01T16:14:58.141638+00:00",
+  "text": "Fable 5.1 dropped -using rn https://x.com/HackingDave/status/2094851755662094791/photo/1",
+  "raw_text": "Fable 5.1 dropped -using rn https://t.co/0fl2b47p20",
+  "created_at": "2026-09-01T18:15:53+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HRJokFRWgAAnp8t.png",
+      "alt_text": null
+    }
+  ],
+  "urls": [
+    {
+      "short": "https://t.co/0fl2b47p20",
+      "expanded": "https://x.com/HackingDave/status/2094851755662094791/photo/1",
+      "display": "pic.x.com/0fl2b47p20",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-09-01T19:15:10.178386+00:00",
   "classification": {
     "relevant": true,
-    "reason": "Discusses AI tools (GPT, Anthropic) being used in security product workflows and criticizes current implementation approaches",
-    "tool_mentioned": "GPT"
+    "reason": "User announces they are now using Fable 5.1, a F# to JavaScript compiler tool",
+    "tool_mentioned": "Fable"
   }
 }
