@@ -1,31 +1,18 @@
 {
-  "tweet_id": "2094851755662094791",
-  "tweet_url": "https://twitter.com/hackingdave/status/2094851755662094791",
+  "tweet_id": "2095972452161474849",
+  "tweet_url": "https://twitter.com/hackingdave/status/2095972452161474849",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Fable 5.1 dropped -using rn https://x.com/HackingDave/status/2094851755662094791/photo/1",
-  "raw_text": "Fable 5.1 dropped -using rn https://t.co/0fl2b47p20",
-  "created_at": "2026-09-01T18:15:53+00:00",
-  "media": [
-    {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HRJokFRWgAAnp8t.png",
-      "alt_text": null
-    }
-  ],
-  "urls": [
-    {
-      "short": "https://t.co/0fl2b47p20",
-      "expanded": "https://x.com/HackingDave/status/2094851755662094791/photo/1",
-      "display": "pic.x.com/0fl2b47p20",
-      "title": ""
-    }
-  ],
-  "updated_at": "2026-09-01T19:15:10.178386+00:00",
+  "text": "Initial benchmark comparisons so far Astra &gt; Fable 5.1 so far - both really good tho.",
+  "raw_text": "Initial benchmark comparisons so far Astra &gt; Fable 5.1 so far - both really good tho.",
+  "created_at": "2026-09-04T20:29:08+00:00",
+  "media": [],
+  "urls": [],
+  "updated_at": "2026-09-04T21:16:10.467774+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User announces they are now using Fable 5.1, a F# to JavaScript compiler tool",
-    "tool_mentioned": "Fable"
+    "reason": "User is comparing two tools (Astra and Fable 5.1) based on benchmark performance",
+    "tool_mentioned": "Astra, Fable 5.1"
   }
 }
