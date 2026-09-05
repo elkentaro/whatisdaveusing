@@ -1,18 +1,18 @@
 {
-  "tweet_id": "2095972452161474849",
-  "tweet_url": "https://twitter.com/hackingdave/status/2095972452161474849",
+  "tweet_id": "2096057116423331872",
+  "tweet_url": "https://twitter.com/hackingdave/status/2096057116423331872",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Initial benchmark comparisons so far Astra &gt; Fable 5.1 so far - both really good tho.",
-  "raw_text": "Initial benchmark comparisons so far Astra &gt; Fable 5.1 so far - both really good tho.",
-  "created_at": "2026-09-04T20:29:08+00:00",
+  "text": "OpenAI nailed it with Astra. Hands down for cost and performance it is superior in every way.",
+  "raw_text": "OpenAI nailed it with Astra. Hands down for cost and performance it is superior in every way.",
+  "created_at": "2026-09-05T02:05:34+00:00",
   "media": [],
   "urls": [],
-  "updated_at": "2026-09-04T21:16:10.467774+00:00",
+  "updated_at": "2026-09-05T02:16:18.214948+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is comparing two tools (Astra and Fable 5.1) based on benchmark performance",
-    "tool_mentioned": "Astra, Fable 5.1"
+    "reason": "User is praising OpenAI's Astra tool for its cost and performance advantages",
+    "tool_mentioned": "OpenAI Astra"
   }
 }
