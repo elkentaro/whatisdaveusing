@@ -1,18 +1,42 @@
 {
-  "tweet_id": "2096057116423331872",
-  "tweet_url": "https://twitter.com/hackingdave/status/2096057116423331872",
+  "tweet_id": "2096601308018999463",
+  "tweet_url": "https://twitter.com/hackingdave/status/2096601308018999463",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "OpenAI nailed it with Astra. Hands down for cost and performance it is superior in every way.",
-  "raw_text": "OpenAI nailed it with Astra. Hands down for cost and performance it is superior in every way.",
-  "created_at": "2026-09-05T02:05:34+00:00",
-  "media": [],
-  "urls": [],
-  "updated_at": "2026-09-05T02:16:18.214948+00:00",
+  "text": "Astra is pretty incredible. Burned 27% usage building this highly graphical based airsoft game for my airsoft buddies. Multiplayer, browser based - lot of fun! https://x.com/HackingDave/status/2096601308018999463/photo/1",
+  "raw_text": "Astra is pretty incredible. Burned 27% usage building this highly graphical based airsoft game for my airsoft buddies. Multiplayer, browser based - lot of fun! https://t.co/iy15GBdM73",
+  "created_at": "2026-09-06T14:07:59+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HRifvbDacAAdP7S.jpg",
+      "alt_text": null
+    },
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HRifv2nbgAAyDhZ.jpg",
+      "alt_text": null
+    }
+  ],
+  "urls": [
+    {
+      "short": "https://t.co/iy15GBdM73",
+      "expanded": "https://x.com/HackingDave/status/2096601308018999463/photo/1",
+      "display": "pic.x.com/iy15GBdM73",
+      "title": ""
+    },
+    {
+      "short": "https://t.co/iy15GBdM73",
+      "expanded": "https://x.com/HackingDave/status/2096601308018999463/photo/1",
+      "display": "pic.x.com/iy15GBdM73",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-09-06T14:16:40.978938+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is praising OpenAI's Astra tool for its cost and performance advantages",
-    "tool_mentioned": "OpenAI Astra"
+    "reason": "User is discussing Astra, likely an AI coding tool, and sharing their experience building a game with it",
+    "tool_mentioned": "Astra"
   }
 }
