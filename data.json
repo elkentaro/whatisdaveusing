@@ -1,18 +1,18 @@
 {
-  "tweet_id": "2098092762897727508",
-  "tweet_url": "https://twitter.com/hackingdave/status/2098092762897727508",
+  "tweet_id": "2098503269098381809",
+  "tweet_url": "https://twitter.com/hackingdave/status/2098503269098381809",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Fable 5.1 not much better btw. Feel like both models got hardcore nerfed.",
-  "raw_text": "Fable 5.1 not much better btw. Feel like both models got hardcore nerfed.",
-  "created_at": "2026-09-10T16:54:30+00:00",
+  "text": "Deepseek v4.1 on 8xh100s is an absolute monster. So good.",
+  "raw_text": "Deepseek v4.1 on 8xh100s is an absolute monster. So good.",
+  "created_at": "2026-09-11T20:05:42+00:00",
   "media": [],
   "urls": [],
-  "updated_at": "2026-09-10T17:17:58.806335+00:00",
+  "updated_at": "2026-09-11T20:18:21.093176+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is comparing AI model versions and expressing dissatisfaction with recent updates",
-    "tool_mentioned": "Fable"
+    "reason": "User is praising Deepseek v4.1 AI model running on H100 GPUs",
+    "tool_mentioned": "Deepseek v4.1"
   }
 }
