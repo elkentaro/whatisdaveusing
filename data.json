@@ -1,18 +1,18 @@
 {
-  "tweet_id": "2098503269098381809",
-  "tweet_url": "https://twitter.com/hackingdave/status/2098503269098381809",
+  "tweet_id": "2099573349567332667",
+  "tweet_url": "https://twitter.com/hackingdave/status/2099573349567332667",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Deepseek v4.1 on 8xh100s is an absolute monster. So good.",
-  "raw_text": "Deepseek v4.1 on 8xh100s is an absolute monster. So good.",
-  "created_at": "2026-09-11T20:05:42+00:00",
+  "text": "Unpopular opinion... \n\nOpus 4.6 (pre nerf) from a SWE was the goat. These models today while may be better at conceptual better complex architecture design, UI design, etc., however overly create complexity now, often take short cuts, don't fully implement or test, second guess",
+  "raw_text": "Unpopular opinion... \n\nOpus 4.6 (pre nerf) from a SWE was the goat. These models today while may be better at conceptual better complex architecture design, UI design, etc., however overly create complexity now, often take short cuts, don't fully implement or test, second guess",
+  "created_at": "2026-09-14T18:57:49+00:00",
   "media": [],
   "urls": [],
-  "updated_at": "2026-09-11T20:18:21.093176+00:00",
+  "updated_at": "2026-09-14T19:19:11.835709+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is praising Deepseek v4.1 AI model running on H100 GPUs",
-    "tool_mentioned": "Deepseek v4.1"
+    "reason": "User discussing AI coding assistant model preferences and comparing LLM performance for software engineering tasks",
+    "tool_mentioned": "Opus 4.6"
   }
 }
