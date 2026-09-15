@@ -1,18 +1,42 @@
 {
-  "tweet_id": "2099573349567332667",
-  "tweet_url": "https://twitter.com/hackingdave/status/2099573349567332667",
+  "tweet_id": "2099875647820587209",
+  "tweet_url": "https://twitter.com/hackingdave/status/2099875647820587209",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Unpopular opinion... \n\nOpus 4.6 (pre nerf) from a SWE was the goat. These models today while may be better at conceptual better complex architecture design, UI design, etc., however overly create complexity now, often take short cuts, don't fully implement or test, second guess",
-  "raw_text": "Unpopular opinion... \n\nOpus 4.6 (pre nerf) from a SWE was the goat. These models today while may be better at conceptual better complex architecture design, UI design, etc., however overly create complexity now, often take short cuts, don't fully implement or test, second guess",
-  "created_at": "2026-09-14T18:57:49+00:00",
-  "media": [],
-  "urls": [],
-  "updated_at": "2026-09-14T19:19:11.835709+00:00",
+  "text": "NightBeacon CMD automatically fills in missing gaps of alarm evidence, hunts automatically, brings full timeline, attack chain to initial access - all within seconds. Something that took multiple hours now taking seconds. So cool to see this all work in action.\n\n#BinaryDefense https://x.com/HackingDave/status/2099875647820587209/photo/1",
+  "raw_text": "NightBeacon CMD automatically fills in missing gaps of alarm evidence, hunts automatically, brings full timeline, attack chain to initial access - all within seconds. Something that took multiple hours now taking seconds. So cool to see this all work in action.\n\n#BinaryDefense https://t.co/HznEduNalu",
+  "created_at": "2026-09-15T14:59:02+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HSRBv6ZXQAEdndm.jpg",
+      "alt_text": null
+    },
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HSRBwYSWsAE5jAA.jpg",
+      "alt_text": null
+    }
+  ],
+  "urls": [
+    {
+      "short": "https://t.co/HznEduNalu",
+      "expanded": "https://x.com/HackingDave/status/2099875647820587209/photo/1",
+      "display": "pic.x.com/HznEduNalu",
+      "title": ""
+    },
+    {
+      "short": "https://t.co/HznEduNalu",
+      "expanded": "https://x.com/HackingDave/status/2099875647820587209/photo/1",
+      "display": "pic.x.com/HznEduNalu",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-09-15T15:19:28.187464+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User discussing AI coding assistant model preferences and comparing LLM performance for software engineering tasks",
-    "tool_mentioned": "Opus 4.6"
+    "reason": "User is praising NightBeacon CMD, a security/threat hunting tool that automates alarm evidence analysis and attack chain detection.",
+    "tool_mentioned": "NightBeacon CMD"
   }
 }
