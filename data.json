@@ -1,42 +1,25 @@
 {
-  "tweet_id": "2099875647820587209",
-  "tweet_url": "https://twitter.com/hackingdave/status/2099875647820587209",
+  "tweet_id": "2102038077585670644",
+  "tweet_url": "https://twitter.com/hackingdave/status/2102038077585670644",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "NightBeacon CMD automatically fills in missing gaps of alarm evidence, hunts automatically, brings full timeline, attack chain to initial access - all within seconds. Something that took multiple hours now taking seconds. So cool to see this all work in action.\n\n#BinaryDefense https://x.com/HackingDave/status/2099875647820587209/photo/1",
-  "raw_text": "NightBeacon CMD automatically fills in missing gaps of alarm evidence, hunts automatically, brings full timeline, attack chain to initial access - all within seconds. Something that took multiple hours now taking seconds. So cool to see this all work in action.\n\n#BinaryDefense https://t.co/HznEduNalu",
-  "created_at": "2026-09-15T14:59:02+00:00",
-  "media": [
-    {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HSRBv6ZXQAEdndm.jpg",
-      "alt_text": null
-    },
-    {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HSRBwYSWsAE5jAA.jpg",
-      "alt_text": null
-    }
-  ],
+  "text": "Anthropic has done this many many many times in the past without telling anyone. Intentionally nerfing models, downgraded models without transparency. Always been my biggest concern with them and others. OpenAI is doing the same thing... All across the board. https://twitter.com/Lon/status/2101793422487204027",
+  "raw_text": "Anthropic has done this many many many times in the past without telling anyone. Intentionally nerfing models, downgraded models without transparency. Always been my biggest concern with them and others. OpenAI is doing the same thing... All across the board. https://t.co/YWvBPFbSt4",
+  "created_at": "2026-09-21T14:11:46+00:00",
+  "media": [],
   "urls": [
     {
-      "short": "https://t.co/HznEduNalu",
-      "expanded": "https://x.com/HackingDave/status/2099875647820587209/photo/1",
-      "display": "pic.x.com/HznEduNalu",
-      "title": ""
-    },
-    {
-      "short": "https://t.co/HznEduNalu",
-      "expanded": "https://x.com/HackingDave/status/2099875647820587209/photo/1",
-      "display": "pic.x.com/HznEduNalu",
+      "short": "https://t.co/YWvBPFbSt4",
+      "expanded": "https://twitter.com/Lon/status/2101793422487204027",
+      "display": "x.com/Lon/status/210…",
       "title": ""
     }
   ],
-  "updated_at": "2026-09-15T15:19:28.187464+00:00",
+  "updated_at": "2026-09-21T14:20:46.728890+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is praising NightBeacon CMD, a security/threat hunting tool that automates alarm evidence analysis and attack chain detection.",
-    "tool_mentioned": "NightBeacon CMD"
+    "reason": "Discussion about AI model providers (Anthropic, OpenAI) and their practices with LLM models",
+    "tool_mentioned": null
   }
 }
