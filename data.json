@@ -1,18 +1,31 @@
 {
-  "tweet_id": "2102489148951052540",
-  "tweet_url": "https://twitter.com/hackingdave/status/2102489148951052540",
+  "tweet_id": "2102514183153590776",
+  "tweet_url": "https://twitter.com/hackingdave/status/2102514183153590776",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Initial usage of Opus 5.5, much better than Opus 5, you can actually understand what it's saying, it actually executes without second guessing itself, and is pretty quick and thorough on implementation. \n\nOpus 5 was one of the worst models that Anthropic ever produced imo, 5.5",
-  "raw_text": "Initial usage of Opus 5.5, much better than Opus 5, you can actually understand what it's saying, it actually executes without second guessing itself, and is pretty quick and thorough on implementation. \n\nOpus 5 was one of the worst models that Anthropic ever produced imo, 5.5",
-  "created_at": "2026-09-22T20:04:10+00:00",
-  "media": [],
-  "urls": [],
-  "updated_at": "2026-09-22T20:21:13.022966+00:00",
+  "text": "What if opus 5.5 is just 4.6 pre nerf https://x.com/HackingDave/status/2102514183153590776/photo/1",
+  "raw_text": "What if opus 5.5 is just 4.6 pre nerf https://t.co/83E1HOPCj4",
+  "created_at": "2026-09-22T21:43:38+00:00",
+  "media": [
+    {
+      "type": "animated_gif",
+      "url": "https://pbs.twimg.com/tweet_video_thumb/HS2hgTEXUAEYbgf.jpg",
+      "alt_text": null
+    }
+  ],
+  "urls": [
+    {
+      "short": "https://t.co/83E1HOPCj4",
+      "expanded": "https://x.com/HackingDave/status/2102514183153590776/photo/1",
+      "display": "pic.x.com/83E1HOPCj4",
+      "title": ""
+    }
+  ],
+  "updated_at": "2026-09-22T22:21:17.862264+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is comparing Claude Opus 5.5 vs Opus 5, sharing opinions on Anthropic's LLM model versions for coding/implementation tasks",
+    "reason": "Discussion about Claude/Opus AI model versions and performance changes",
     "tool_mentioned": "Claude Opus"
   }
 }
