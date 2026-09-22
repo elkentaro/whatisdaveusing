@@ -1,18 +1,18 @@
 {
-  "tweet_id": "2102462799456727275",
-  "tweet_url": "https://twitter.com/hackingdave/status/2102462799456727275",
+  "tweet_id": "2102489148951052540",
+  "tweet_url": "https://twitter.com/hackingdave/status/2102489148951052540",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Dang opus 5.5 and gpt-6 sol in one day.",
-  "raw_text": "Dang opus 5.5 and gpt-6 sol in one day.",
-  "created_at": "2026-09-22T18:19:27+00:00",
+  "text": "Initial usage of Opus 5.5, much better than Opus 5, you can actually understand what it's saying, it actually executes without second guessing itself, and is pretty quick and thorough on implementation. \n\nOpus 5 was one of the worst models that Anthropic ever produced imo, 5.5",
+  "raw_text": "Initial usage of Opus 5.5, much better than Opus 5, you can actually understand what it's saying, it actually executes without second guessing itself, and is pretty quick and thorough on implementation. \n\nOpus 5 was one of the worst models that Anthropic ever produced imo, 5.5",
+  "created_at": "2026-09-22T20:04:10+00:00",
   "media": [],
   "urls": [],
-  "updated_at": "2026-09-22T18:21:03.759299+00:00",
+  "updated_at": "2026-09-22T20:21:13.022966+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is discussing new AI model releases (Opus 5.5 and GPT-6)",
-    "tool_mentioned": "Opus 5.5, GPT-6"
+    "reason": "User is comparing Claude Opus 5.5 vs Opus 5, sharing opinions on Anthropic's LLM model versions for coding/implementation tasks",
+    "tool_mentioned": "Claude Opus"
   }
 }
