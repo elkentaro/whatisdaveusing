@@ -1,18 +1,18 @@
 {
-  "tweet_id": "2102534948746133533",
-  "tweet_url": "https://twitter.com/hackingdave/status/2102534948746133533",
+  "tweet_id": "2102543533269799145",
+  "tweet_url": "https://twitter.com/hackingdave/status/2102543533269799145",
   "author_name": "Dave Kennedy",
   "author_username": "hackingdave",
   "author_avatar": "https://pbs.twimg.com/profile_images/2035055828592402432/rV5av0H7_normal.jpg",
-  "text": "Listen, Opus 5.5 is rocking it. 6-Sol is also rocking it.\n\nPlease, for the love of God, do not touch these models. Do not nerf them, downgrade them. Update them. Leave them alone.",
-  "raw_text": "Listen, Opus 5.5 is rocking it. 6-Sol is also rocking it.\n\nPlease, for the love of God, do not touch these models. Do not nerf them, downgrade them. Update them. Leave them alone.",
-  "created_at": "2026-09-22T23:06:09+00:00",
+  "text": "Lets vote. Worst model ever released from Anthropic?",
+  "raw_text": "Lets vote. Worst model ever released from Anthropic?",
+  "created_at": "2026-09-22T23:40:16+00:00",
   "media": [],
   "urls": [],
-  "updated_at": "2026-09-22T23:21:22.875540+00:00",
+  "updated_at": "2026-09-23T00:21:28.829484+00:00",
   "classification": {
     "relevant": true,
-    "reason": "User is praising AI models (Opus 5.5 and 6-Sol, likely Claude variants) and expressing strong preference for their current performance",
-    "tool_mentioned": "Claude Opus"
+    "reason": "Discussion about Anthropic's AI models implies comparison of LLM tools",
+    "tool_mentioned": "Anthropic"
   }
 }
